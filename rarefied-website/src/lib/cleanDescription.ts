@@ -12,7 +12,7 @@ export function cleanDescription(description: string): string {
 
   // Remove trailing timestamps pattern (e.g., "00:00 Introduction 00:33 Meet the...")
   // Handles both with and without space before timestamp (e.g., "habitats.00:00" or "habitats. 00:00")
-  cleaned = cleaned.replace(/\s*\d{2}:\d{2}\s*[A-Z].*$/s, "");
+  cleaned = cleaned.replace(/\s*\d{2}:\d{2}\s*[A-Z][\s\S]*$/, "");
 
   return cleaned.trim();
 }
