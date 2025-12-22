@@ -1,0 +1,125 @@
+{
+  "id": "ep-25",
+  "slug": "caribou",
+  "title": "Caribou",
+  "subtitle": "Deep Snow, Deep Impact",
+  "episodeNumber": 25,
+  "season": 1,
+  "publishedAt": "2025-05-29",
+  "duration": 3561,
+  "description": "In the final episode of Rarefied's first season, host Meredith Meeker delves into the world of caribou, focusing on their significance, unique characteristics, and the challenges they face. Meredith interviews Eddie Petryshen, a conservation specialist from Wild Sight, who works tirelessly to protect the deep snow caribou in British Columbia. They discuss the threats of habitat loss, climate change, and industrial development, as well as ongoing conservation efforts, including penning initiatives and habitat protection. The episode emphasizes the interconnectedness of biodiversity and the importance of preserving these majestic creatures and their habitats. Tune in to learn fascinating facts about caribou, their adaptations, and the critical work being done to ensure their survival. https://thenarwhal.ca/bc-rainforest-old-growth-detectives/00:00 Welcome to Rarefied: Season Finale 00:27 Introducing the Caribou 00:31 Caribou Facts and Female Antlers 01:12 Caribou Cons",
+  "species": {
+    "commonName": "Caribou",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "caribou.jpg",
+    "imageAlt": "Caribou featured in episode 25"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/17244733-caribou-deep-snow-deep-impact.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/1vFdXb6tZRlry8lBM47tTB",
+  "spotifyEmbedId": "1vFdXb6tZRlry8lBM47tTB",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Eddie Petryshen",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Welcome to Rarefied: Season Finale"
+    },
+    {
+      "time": "00:27",
+      "timeInSeconds": 27,
+      "title": "Introducing the Caribou"
+    },
+    {
+      "time": "00:31",
+      "timeInSeconds": 31,
+      "title": "Caribou Facts and Female Antlers"
+    },
+    {
+      "time": "01:12",
+      "timeInSeconds": 72,
+      "title": "Caribou Conservation Efforts with Eddie Partition"
+    },
+    {
+      "time": "02:19",
+      "timeInSeconds": 139,
+      "title": "Understanding Caribou Populations and Habitats"
+    },
+    {
+      "time": "03:58",
+      "timeInSeconds": 238,
+      "title": "Southern Mountain Caribou: Unique Adaptations"
+    },
+    {
+      "time": "07:20",
+      "timeInSeconds": 440,
+      "title": "Threats to Caribou Survival"
+    },
+    {
+      "time": "11:56",
+      "timeInSeconds": 716,
+      "title": "Conservation Actions and Challenges"
+    },
+    {
+      "time": "31:29",
+      "timeInSeconds": 1889,
+      "title": "The Human Connection to Caribou"
+    },
+    {
+      "time": "32:11",
+      "timeInSeconds": 1931,
+      "title": "Exploring the Mysteries of Inland Rainforests"
+    },
+    {
+      "time": "35:00",
+      "timeInSeconds": 2100,
+      "title": "Biodiversity and Conservation Efforts"
+    },
+    {
+      "time": "36:10",
+      "timeInSeconds": 2170,
+      "title": "How to Help Protect Magical Places"
+    },
+    {
+      "time": "39:36",
+      "timeInSeconds": 2376,
+      "title": "Memorable Field Experiences with Caribou"
+    },
+    {
+      "time": "42:41",
+      "timeInSeconds": 2561,
+      "title": "Rapid Fire Questions about Caribou"
+    },
+    {
+      "time": "53:49",
+      "timeInSeconds": 3229,
+      "title": "Aha Moments and Career Reflections"
+    },
+    {
+      "time": "57:18",
+      "timeInSeconds": 3438,
+      "title": "Conclusion and Season Wrap-Up"
+    }
+  ],
+  "resources": [
+    {
+      "title": "BC Rainforest Old Growth Detectives",
+      "url": "https://thenarwhal.ca/bc-rainforest-old-growth-detectives/"
+    }
+  ],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-17244733"
+}

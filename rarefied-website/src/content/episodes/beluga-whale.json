@@ -1,0 +1,153 @@
+{
+  "id": "ep-10",
+  "slug": "beluga-whale",
+  "title": "Beluga Whale",
+  "subtitle": "Canaries of the sea",
+  "episodeNumber": 10,
+  "season": 1,
+  "publishedAt": "2025-02-13",
+  "duration": 2851,
+  "description": "On this episode of Rarified listeners are introduced to the beluga whale. Renowned for its unique vocalizations and smiling visage, the beluga whale inhabits the Arctic and sub-Arctic waters. With conservation scientist William Halliday, the podcast dives into the life of belugas, exploring their behaviors, unique adaptations, and the threats they face, such as climate change and increased human activity in the Arctic. They discuss conservation efforts, traditional ecological knowledge from Indigenous communities, and how studies like acoustic monitoring and tagging help understand and protect these 'canaries of the sea.'www.arcticnoise.cahttps://www.snopes.com/fact-check/white-wilderness-lemming-suicide/further reading: Martin et al. 2023 https://doi.org/10.1111/mms.12978 Halliday et al. 2019 https://doi.org/10.14430/arctic69294Chapters00:00 Introduction to Rarified Podcast00:26 Exploring the Beluga Whale01:36 Interview with William Halliday02:36 Beluga Whale B",
+  "species": {
+    "commonName": "Beluga Whale",
+    "scientificName": "Delphinapterus leucas",
+    "status": "Endangered",
+    "weight": "Lifespan: 35-50 years",
+    "length": "2-3 m",
+    "diet": "",
+    "habitat": "Arctic Waters",
+    "specialPower": "Built in fish finder and underwater navigator",
+    "image": "beluga-whale.png",
+    "imageAlt": "Beluga Whale featured in episode 10"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16613717-beluga-whale-canaries-of-the-sea.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/35yCnSNo4pqZEIpyy6OCZc",
+  "spotifyEmbedId": "35yCnSNo4pqZEIpyy6OCZc",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarified Podcast"
+    },
+    {
+      "time": "00:26",
+      "timeInSeconds": 26,
+      "title": "Exploring the Beluga Whale"
+    },
+    {
+      "time": "01:36",
+      "timeInSeconds": 96,
+      "title": "Interview with William Halliday"
+    },
+    {
+      "time": "02:36",
+      "timeInSeconds": 156,
+      "title": "Beluga Whale Behavior and Social Structure"
+    },
+    {
+      "time": "08:33",
+      "timeInSeconds": 513,
+      "title": "Beluga Whale Migration Patterns"
+    },
+    {
+      "time": "13:40",
+      "timeInSeconds": 820,
+      "title": "Impact of Climate Change on Belugas"
+    },
+    {
+      "time": "16:19",
+      "timeInSeconds": 979,
+      "title": "Human Activity and Beluga Conservation"
+    },
+    {
+      "time": "18:19",
+      "timeInSeconds": 1099,
+      "title": "Research Methods for Studying Belugas"
+    },
+    {
+      "time": "21:40",
+      "timeInSeconds": 1300,
+      "title": "Indigenous Partnerships in Beluga Research"
+    },
+    {
+      "time": "23:34",
+      "timeInSeconds": 1414,
+      "title": "Indigenous Partnerships in Arctic Research"
+    },
+    {
+      "time": "24:43",
+      "timeInSeconds": 1483,
+      "title": "Community Consultations and Permits"
+    },
+    {
+      "time": "25:35",
+      "timeInSeconds": 1535,
+      "title": "Fieldwork and Data Collection"
+    },
+    {
+      "time": "27:27",
+      "timeInSeconds": 1647,
+      "title": "Memorable Beluga Encounters"
+    },
+    {
+      "time": "31:04",
+      "timeInSeconds": 1864,
+      "title": "Ecotourism and Beluga Conservation"
+    },
+    {
+      "time": "35:51",
+      "timeInSeconds": 2151,
+      "title": "Challenges and Successes in Conservation"
+    },
+    {
+      "time": "36:38",
+      "timeInSeconds": 2198,
+      "title": "Career Path and Conservation Ethos"
+    },
+    {
+      "time": "38:58",
+      "timeInSeconds": 2338,
+      "title": "Lemmings Myth and Reality"
+    },
+    {
+      "time": "40:36",
+      "timeInSeconds": 2436,
+      "title": "Supporting Beluga Populations"
+    },
+    {
+      "time": "44:16",
+      "timeInSeconds": 2656,
+      "title": "Success Stories and Future Hopes"
+    },
+    {
+      "time": "46:23",
+      "timeInSeconds": 2783,
+      "title": "Conclusion and Farewell"
+    }
+  ],
+  "resources": [
+    {
+      "title": "White Wilderness Lemming Suicide",
+      "url": "https://www.snopes.com/fact-check/white-wilderness-lemming-suicide/"
+    },
+    {
+      "title": "mms.12978",
+      "url": "https://doi.org/10.1111/mms.12978"
+    },
+    {
+      "title": "arctic69294",
+      "url": "https://doi.org/10.14430/arctic69294"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "arctic",
+    "mammal",
+    "marine",
+    "noise pollution"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-william-halliday-beluga-whale",
+  "_rssGuid": "Buzzsprout-16613717"
+}

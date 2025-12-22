@@ -1,0 +1,113 @@
+{
+  "id": "ep-21",
+  "slug": "southwest-spring-firefly",
+  "title": "Southwest Spring Firefly",
+  "subtitle": "The Gateway Bug",
+  "episodeNumber": 21,
+  "season": 1,
+  "publishedAt": "2025-05-01",
+  "duration": 2541,
+  "description": "In this episode of Rarefied, host Meredith Meeker introduces listeners to the Southwest Spring Firefly, an understudied species primarily found in Arizona. Joined by Rachel Laura, Deputy Executive Director at Friends of the Verde River and a PhD student at the University of Arizona, the episode dives into the unique characteristics, life cycle, and habitat of this rare firefly. Rachel shares insights from her field research, including the challenges of studying an imperiled species and the importance of conserving wetland habitats. Listeners will also learn fascinating facts about firefly bioluminescence and the broader ecological significance of protecting these enchanting insects.https://www.fireflyatlas.org/ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.025937900:00 Introduction: A Legacy in Nature00:23 Welcome to Rarefied: Meet Your Host00:51 Spotlight on the Southwest Spring Firefly01:54 Firefly Basics and Unique Traits02:57 Habitat and Ecology of",
+  "species": {
+    "commonName": "Southwest Spring Firefly",
+    "scientificName": "Bicellonycha wickershamorum",
+    "status": "Endangered",
+    "weight": "",
+    "length": "10-25 mm",
+    "diet": "Flash colour: Green",
+    "habitat": "Riparian Vegetation",
+    "specialPower": "Magician",
+    "image": "southwest-spring-firefly.png",
+    "imageAlt": "Southwest Spring Firefly featured in episode 21"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/17076125-southwest-spring-firefly-the-gateway-bug.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/261hvMzLSHECY4tnKl2WyU",
+  "spotifyEmbedId": "261hvMzLSHECY4tnKl2WyU",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Rachel Laura",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction: A Legacy in Nature"
+    },
+    {
+      "time": "00:23",
+      "timeInSeconds": 23,
+      "title": "Welcome to Rarefied: Meet Your Host"
+    },
+    {
+      "time": "00:51",
+      "timeInSeconds": 51,
+      "title": "Spotlight on the Southwest Spring Firefly"
+    },
+    {
+      "time": "01:54",
+      "timeInSeconds": 114,
+      "title": "Firefly Basics and Unique Traits"
+    },
+    {
+      "time": "02:57",
+      "timeInSeconds": 177,
+      "title": "Habitat and Ecology of the Southwest Spring Firefly"
+    },
+    {
+      "time": "05:35",
+      "timeInSeconds": 335,
+      "title": "Research and Conservation Efforts"
+    },
+    {
+      "time": "09:30",
+      "timeInSeconds": 570,
+      "title": "Field Research Insights and Discoveries"
+    },
+    {
+      "time": "11:49",
+      "timeInSeconds": 709,
+      "title": "Challenges and Methods in Firefly Research"
+    },
+    {
+      "time": "20:13",
+      "timeInSeconds": 1213,
+      "title": "The Magic and Importance of Fireflies"
+    },
+    {
+      "time": "23:05",
+      "timeInSeconds": 1385,
+      "title": "Community Involvement and Conservation Tips"
+    },
+    {
+      "time": "27:36",
+      "timeInSeconds": 1656,
+      "title": "Future Research and Final Thoughts"
+    },
+    {
+      "time": "40:37",
+      "timeInSeconds": 2437,
+      "title": "Conclusion: Every Species Has a Story"
+    }
+  ],
+  "resources": [
+    {
+      "title": "fireflyatlas.org",
+      "url": "https://www.fireflyatlas.org/"
+    },
+    {
+      "title": "journal.pone.0259379",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259379"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "insects",
+    "united states",
+    "riparian",
+    "endangered"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-rachel-laura-southwest-spring-firefly",
+  "_rssGuid": "Buzzsprout-17076125"
+}

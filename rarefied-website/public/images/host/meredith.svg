@@ -1,0 +1,11 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" fill="#a2d9a2"/>
+  <circle cx="400" cy="320" r="120" fill="#587c49"/>
+  <circle cx="360" cy="300" r="20" fill="#ffffff"/>
+  <circle cx="440" cy="300" r="20" fill="#ffffff"/>
+  <circle cx="365" cy="295" r="8" fill="#000000"/>
+  <circle cx="445" cy="295" r="8" fill="#000000"/>
+  <path d="M 340 400 Q 400 450 460 400" stroke="#587c49" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="400" y="720" font-family="Arial, sans-serif" font-size="32" fill="#587c49" text-anchor="middle" font-weight="bold">Meredith Meeker</text>
+  <text x="400" y="760" font-family="Arial, sans-serif" font-size="24" fill="#587c49" text-anchor="middle">Field Biologist &amp; Host</text>
+</svg>

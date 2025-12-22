@@ -1,0 +1,133 @@
+{
+  "id": "ep-13",
+  "slug": "little-brown-bat",
+  "title": "Little Brown Bat",
+  "subtitle": "Tiny Sky Shark",
+  "episodeNumber": 13,
+  "season": 1,
+  "publishedAt": "2025-03-06",
+  "duration": 3011,
+  "description": "In this episode of 'Rarefied', host Meredith Meeker takes listeners on an adventure into the nocturnal world, featuring the little brown bat, one of North America's endangered bat species. The discussion includes detailed descriptions of the bat's physical characteristics, behaviors, and the severe threats they face, like White Nose Syndrome. Meeker shares personal experiences with bats and highlights conservation efforts alongside guest Dr. Christina Davy, an associate professor at Carleton University. Davy provides insights into bat research, challenges faced in their conservation, and actionable steps people can take to protect these essential aerial insectivores. The episode wraps up with hopeful notes on future conservation actions and their impact.00:00 Introduction to Rarefied Podcast00:49 Exploring the Little Brown Bat01:46 Personal Encounters with Bats02:51 Introducing Dr. Christina Davey03:41 Understanding Little Brown Bats05:48 White Nose Sy",
+  "species": {
+    "commonName": "Little Brown Bat",
+    "scientificName": "Myotis lucifugus",
+    "status": "Endangered",
+    "weight": "10 g",
+    "length": "Wingspan: 25 cm",
+    "diet": "",
+    "habitat": "Forests and Caves",
+    "specialPower": "Maintaining the Food Web",
+    "image": "little-brown-bat.png",
+    "imageAlt": "Little Brown Bat featured in episode 13"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16741502-little-brown-bat-tiny-sky-shark.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/03adiNbtONrqmoPnO4qGXn",
+  "spotifyEmbedId": "03adiNbtONrqmoPnO4qGXn",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:49",
+      "timeInSeconds": 49,
+      "title": "Exploring the Little Brown Bat"
+    },
+    {
+      "time": "01:46",
+      "timeInSeconds": 106,
+      "title": "Personal Encounters with Bats"
+    },
+    {
+      "time": "02:51",
+      "timeInSeconds": 171,
+      "title": "Introducing Dr. Christina Davey"
+    },
+    {
+      "time": "03:41",
+      "timeInSeconds": 221,
+      "title": "Understanding Little Brown Bats"
+    },
+    {
+      "time": "05:48",
+      "timeInSeconds": 348,
+      "title": "White Nose Syndrome Crisis"
+    },
+    {
+      "time": "09:59",
+      "timeInSeconds": 599,
+      "title": "Efforts to Protect Bat Populations"
+    },
+    {
+      "time": "16:03",
+      "timeInSeconds": 963,
+      "title": "The Role of Bat Boxes"
+    },
+    {
+      "time": "19:45",
+      "timeInSeconds": 1185,
+      "title": "Supporting Bat Conservation at Home"
+    },
+    {
+      "time": "22:18",
+      "timeInSeconds": 1338,
+      "title": "The Importance of Bats in Ecosystems"
+    },
+    {
+      "time": "27:01",
+      "timeInSeconds": 1621,
+      "title": "Understanding Bat Echolocation"
+    },
+    {
+      "time": "27:35",
+      "timeInSeconds": 1655,
+      "title": "The Reality of Bat Bites and Rabies"
+    },
+    {
+      "time": "28:41",
+      "timeInSeconds": 1721,
+      "title": "Handling Bats Safely"
+    },
+    {
+      "time": "32:41",
+      "timeInSeconds": 1961,
+      "title": "Personal Experiences with Bats"
+    },
+    {
+      "time": "39:27",
+      "timeInSeconds": 2367,
+      "title": "Bats&apos; Unique Abilities and Behaviors"
+    },
+    {
+      "time": "44:49",
+      "timeInSeconds": 2689,
+      "title": "Challenges in Bat Conservation"
+    },
+    {
+      "time": "46:48",
+      "timeInSeconds": 2808,
+      "title": "The Future of Little Brown Bats"
+    },
+    {
+      "time": "49:26",
+      "timeInSeconds": 2966,
+      "title": "Conclusion and Next Episode Teaser"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "mammal",
+    "urban species"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-christina-davy-little-brown-bat",
+  "_rssGuid": "Buzzsprout-16741502"
+}

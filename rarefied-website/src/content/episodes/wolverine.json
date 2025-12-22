@@ -1,0 +1,113 @@
+{
+  "id": "ep-5",
+  "slug": "wolverine",
+  "title": "Wolverine",
+  "subtitle": "A marvelous mammal",
+  "episodeNumber": 5,
+  "season": 1,
+  "publishedAt": "2024-12-19",
+  "duration": 2865,
+  "description": "In this episode of Rarefied, we delve into the world of one of nature's most elusive and powerful creatures, the Wolverine. Joined by Matthew Scrafford, a conservation scientist with Wildlife Conservation Society Canada, the episode explores Matthew’s work with Wolverines. The conversation covers the Wolverine's behavior, distribution, and the challenges they face, including climate change and industrial development. Matthew shares insights from his extensive fieldwork and research, detailing methods such as radio telemetry, camera trapping, and aerial surveys. He also discusses the importance of public involvement in conservation efforts and shares personal anecdotes from his work. Listeners are encouraged to appreciate the Wolverine's story and the need to protect their habitats.00:00 Introduction to the Podcast00:35 Meet the Wolverine02:06 Wolverine Behavior and Characteristics07:52 Wolverine Habitat and Distribution10:41 Researching Wolverines: Methods ",
+  "species": {
+    "commonName": "Wolverine",
+    "scientificName": "Gulo gulo",
+    "status": "Threatened",
+    "weight": "35 lbs",
+    "length": "",
+    "diet": "Scavenged wolf kills, smaller mammals, berries",
+    "habitat": "Boreal Forest",
+    "specialPower": "Crushing Jaws",
+    "image": "wolverine.png",
+    "imageAlt": "Wolverine featured in episode 5"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16304566-wolverine-a-marvelous-mammal.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/3wa8Km4GMcxAWCfLtlM75m",
+  "spotifyEmbedId": "3wa8Km4GMcxAWCfLtlM75m",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Matthew Scrafford",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to the Podcast"
+    },
+    {
+      "time": "00:35",
+      "timeInSeconds": 35,
+      "title": "Meet the Wolverine"
+    },
+    {
+      "time": "02:06",
+      "timeInSeconds": 126,
+      "title": "Wolverine Behavior and Characteristics"
+    },
+    {
+      "time": "07:52",
+      "timeInSeconds": 472,
+      "title": "Wolverine Habitat and Distribution"
+    },
+    {
+      "time": "10:41",
+      "timeInSeconds": 641,
+      "title": "Researching Wolverines: Methods and Challenges"
+    },
+    {
+      "time": "18:23",
+      "timeInSeconds": 1103,
+      "title": "Fieldwork Experiences and Wolverine Personalities"
+    },
+    {
+      "time": "24:30",
+      "timeInSeconds": 1470,
+      "title": "Adventures in Wolverine Tracking"
+    },
+    {
+      "time": "26:55",
+      "timeInSeconds": 1615,
+      "title": "Conservation Challenges and Climate Change"
+    },
+    {
+      "time": "29:06",
+      "timeInSeconds": 1746,
+      "title": "Industrial Development and Its Impact"
+    },
+    {
+      "time": "32:32",
+      "timeInSeconds": 1952,
+      "title": "Best Practices for Trappers and Recreationalists"
+    },
+    {
+      "time": "38:20",
+      "timeInSeconds": 2300,
+      "title": "Community Involvement and Policy Advocacy"
+    },
+    {
+      "time": "42:08",
+      "timeInSeconds": 2528,
+      "title": "Personal Stories and Career Path"
+    },
+    {
+      "time": "46:05",
+      "timeInSeconds": 2765,
+      "title": "Final Thoughts and Outro"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "boreal forest",
+    "mammal"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-matthew-scrafford-wolverine",
+  "_rssGuid": "Buzzsprout-16304566"
+}

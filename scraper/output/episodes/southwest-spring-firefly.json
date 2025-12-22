@@ -1,0 +1,43 @@
+{
+  "id": "ep-18",
+  "slug": "southwest-spring-firefly",
+  "title": "Southwest Spring Firefly",
+  "subtitle": "The Gateway Bug",
+  "episodeNumber": 18,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of Rarefied the podcast, host Meredith Meeker delves into the intriguing world of the Jefferson Salamander, a rare and imperiled amphibian found in Ontario, Canada. Meredith is joined by Jessica Linton, a senior biologist and project manager at NRSI, who shares her expertise on the species' lifecycle, habitat, and the unique reproductive strategy involving unisexual salamanders. The discussion also covers the threats facing the Jefferson Salamander, including habitat loss and climate change, and outlines efforts being made to protect this essential species, from road closures to conservation advocacy. Listeners are encouraged to take action to support endangered species protection and learn more about the fascinating lives of these elusive creatures.",
+  "species": {
+    "commonName": "Southwest Spring Firefly",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "loss and climate change, and outlines efforts being made to protect this essential species, from road closures to conservation advocacy. Listeners are encouraged to take action to support endangered species protection and learn more about the fascinating lives of these elusive creatures.",
+    "specialPower": "",
+    "image": "southwest-spring-firefly.png",
+    "imageAlt": "Southwest Spring Firefly featured in episode 18"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "insects",
+    "united states",
+    "riparian",
+    "endangered"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-rachel-laura-southwest-spring-firefly"
+}

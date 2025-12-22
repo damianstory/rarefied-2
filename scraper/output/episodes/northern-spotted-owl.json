@@ -1,0 +1,43 @@
+{
+  "id": "ep-19",
+  "slug": "northern-spotted-owl",
+  "title": "Northern Spotted Owl",
+  "subtitle": "Messengers of the Old Growth Forests",
+  "episodeNumber": 19,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of Rarefied, host Meredith Meeker talks with Jasmine McCulligh (she/her), the facility coordinator at the Northern Spotted Owl Breeding Program. They discuss the critical situation of the Northern Spotted Owl, its unique reliance on old growth forests, and the significant challenges it faces from habitat loss and competition with Barred Owls. Jasmine shares insights into the breeding program, the complexities of reintroducing owls into the wild, and the importance of conservation efforts. Listeners will learn about the owl's specialized needs, the efforts to protect and expand their habitat, and the intricate care involved in breeding and releasing these endangered birds. Join us to discover the story of the Northern Spotted Owl and the dedicated efforts to ensure its survival.",
+  "species": {
+    "commonName": "Northern Spotted Owl",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "loss and competition with Barred Owls. Jasmine shares insights into the breeding program, the complexities of reintroducing owls into the wild, and the importance of conservation efforts. Listeners will learn about the owl's specialized needs, the efforts to protect and expand their habitat, and the intricate care involved in breeding and releasing these endangered birds. Join us to discover the story of the Northern Spotted Owl and the dedicated efforts to ensure its survival.",
+    "specialPower": "",
+    "image": "northern-spotted-owl.png",
+    "imageAlt": "Northern Spotted Owl featured in episode 19"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "captive breeding program",
+    "old growth forest",
+    "british colombia",
+    "birds"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-jasmine-mcculligh-northern-spotted-owl"
+}

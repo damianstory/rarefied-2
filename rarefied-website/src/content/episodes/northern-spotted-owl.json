@@ -1,0 +1,109 @@
+{
+  "id": "ep-22",
+  "slug": "northern-spotted-owl",
+  "title": "Northern Spotted Owl",
+  "subtitle": "Messengers of the Old Growth Forests",
+  "episodeNumber": 22,
+  "season": 1,
+  "publishedAt": "2025-05-08",
+  "duration": 2552,
+  "description": "In this episode of Rarefied, host Meredith Meeker talks with Jasmine McCulligh (she/her), the facility coordinator at the Northern Spotted Owl Breeding Program. They discuss the critical situation of the Northern Spotted Owl, its unique reliance on old growth forests, and the significant challenges it faces from habitat loss and competition with Barred Owls. Jasmine shares insights into the breeding program, the complexities of reintroducing owls into the wild, and the importance of conservation efforts. Listeners will learn about the owl's specialized needs, the efforts to protect and expand their habitat, and the intricate care involved in breeding and releasing these endangered birds. Join us to discover the story of the Northern Spotted Owl and the dedicated efforts to ensure its survival.www.nsobreedingprogram.com00:00 Introduction to Rarefied Podcast00:49 Meet the Northern Spotted Owl02:32 The Habitat and Challenges of the Northern Spotted Owl07:32 Conservation",
+  "species": {
+    "commonName": "Northern Spotted Owl",
+    "scientificName": "Strix occidentalis caurina",
+    "status": "Endangered",
+    "weight": "700 g",
+    "length": "Wingspan: 101 cm",
+    "diet": "",
+    "habitat": "Old Growth Forest",
+    "specialPower": "Holding the Umbrella",
+    "image": "northern-spotted-owl.png",
+    "imageAlt": "Northern Spotted Owl featured in episode 22"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/17119991-northern-spotted-owl-messengers-of-the-old-growth-forests.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/3q9uuR4CDSe45Vyk3fj1zH",
+  "spotifyEmbedId": "3q9uuR4CDSe45Vyk3fj1zH",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Jasmine McCulligh",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:49",
+      "timeInSeconds": 49,
+      "title": "Meet the Northern Spotted Owl"
+    },
+    {
+      "time": "02:32",
+      "timeInSeconds": 152,
+      "title": "The Habitat and Challenges of the Northern Spotted Owl"
+    },
+    {
+      "time": "07:32",
+      "timeInSeconds": 452,
+      "title": "Conservation Efforts and Breeding Programs"
+    },
+    {
+      "time": "15:28",
+      "timeInSeconds": 928,
+      "title": "The Role of Barred Owls and Ecosystem Impact"
+    },
+    {
+      "time": "22:02",
+      "timeInSeconds": 1322,
+      "title": "Funding and Support for the Owl Program"
+    },
+    {
+      "time": "23:04",
+      "timeInSeconds": 1384,
+      "title": "Breeding Program Successes"
+    },
+    {
+      "time": "25:21",
+      "timeInSeconds": 1521,
+      "title": "Personal Experiences and Favorite Memories"
+    },
+    {
+      "time": "26:57",
+      "timeInSeconds": 1617,
+      "title": "Owl Personalities and Behaviors"
+    },
+    {
+      "time": "29:30",
+      "timeInSeconds": 1770,
+      "title": "Rapid Fire Questions"
+    },
+    {
+      "time": "39:29",
+      "timeInSeconds": 2369,
+      "title": "Concluding Thoughts and Final Questions"
+    },
+    {
+      "time": "40:28",
+      "timeInSeconds": 2428,
+      "title": "Episode Wrap-Up and Final Notes"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "captive breeding program",
+    "old growth forest",
+    "british columbia",
+    "birds"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-jasmine-mcculligh-northern-spotted-owl",
+  "_rssGuid": "Buzzsprout-17119991"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "ep-12",
+  "slug": "oregon-spotted-frog",
+  "title": "Oregon Spotted Frog",
+  "subtitle": "Knock Knock... who's there",
+  "episodeNumber": 12,
+  "season": 1,
+  "publishedAt": "2025-02-27",
+  "duration": 2970,
+  "description": "In this episode of 'Rarefied,' host Meredith Meeker explores the conservation efforts surrounding the Oregon Spotted Frog, an amphibian facing critical endangerment. The discussion delves into the frog’s habitat, threats they face, and the innovative measures being taken to protect and restore their populations. Wildlife biologist Andrea Gielens shares insights from her extensive work with the species, highlighting the complexities of captive breeding, habitat restoration, and the challenges posed by invasive species. Through fascinating anecdotes and scientific explanations, the episode underscores the importance of preserving biodiversity and the intricate ecological role of the Oregon Spotted Frog.00:00 Introduction to Rarefied Podcast00:35 Exploring the Oregon Spotted Frog06:56 Challenges Facing the Oregon Spotted Frog12:49 Conservation Efforts and Captive Breeding17:23 Successes and Future of the Program25:03 Releasing Spotted Frogs into the Wild26:46 Publi",
+  "species": {
+    "commonName": "Oregon Spotted Frog",
+    "scientificName": "Rana pretiosa",
+    "status": "Endangered",
+    "weight": "",
+    "length": "6-9 cm",
+    "diet": "",
+    "habitat": "Warm water marsh",
+    "specialPower": "Creating Baby Greenhouses",
+    "image": "oregon-spotted-frog.png",
+    "imageAlt": "Oregon Spotted Frog featured in episode 12"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16699342-oregon-spotted-frog-knock-knock-who-s-there.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/2g5Tdf8Rn0kJFzAmQxoAtu",
+  "spotifyEmbedId": "2g5Tdf8Rn0kJFzAmQxoAtu",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "the species",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:35",
+      "timeInSeconds": 35,
+      "title": "Exploring the Oregon Spotted Frog"
+    },
+    {
+      "time": "06:56",
+      "timeInSeconds": 416,
+      "title": "Challenges Facing the Oregon Spotted Frog"
+    },
+    {
+      "time": "12:49",
+      "timeInSeconds": 769,
+      "title": "Conservation Efforts and Captive Breeding"
+    },
+    {
+      "time": "17:23",
+      "timeInSeconds": 1043,
+      "title": "Successes and Future of the Program"
+    },
+    {
+      "time": "25:03",
+      "timeInSeconds": 1503,
+      "title": "Releasing Spotted Frogs into the Wild"
+    },
+    {
+      "time": "26:46",
+      "timeInSeconds": 1606,
+      "title": "Public Involvement in Frog Conservation"
+    },
+    {
+      "time": "28:10",
+      "timeInSeconds": 1690,
+      "title": "Challenges and Support for Conservation Efforts"
+    },
+    {
+      "time": "29:01",
+      "timeInSeconds": 1741,
+      "title": "The Role of Zoos and Aquariums"
+    },
+    {
+      "time": "31:30",
+      "timeInSeconds": 1890,
+      "title": "Why We Should Care About Frog Conservation"
+    },
+    {
+      "time": "40:39",
+      "timeInSeconds": 2439,
+      "title": "Unique Behaviors of the Oregon Spotted Frog"
+    },
+    {
+      "time": "44:53",
+      "timeInSeconds": 2693,
+      "title": "Fieldwork Mishaps and Funny Stories"
+    },
+    {
+      "time": "47:33",
+      "timeInSeconds": 2853,
+      "title": "Final Thoughts on Wetland Conservation"
+    },
+    {
+      "time": "48:36",
+      "timeInSeconds": 2916,
+      "title": "Episode Wrap-Up and Next Time Teaser"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "amphibian",
+    "captive breeding program",
+    "british columbia",
+    "west coast",
+    "wetland"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-andrea-gielens-oregon-spotted-frog",
+  "_rssGuid": "Buzzsprout-16699342"
+}

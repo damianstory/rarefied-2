@@ -1,0 +1,152 @@
+{
+  "id": "ep-24",
+  "slug": "snuffbox",
+  "title": "Snuffbox",
+  "subtitle": "More than a filter",
+  "episodeNumber": 24,
+  "season": 1,
+  "publishedAt": "2025-05-23",
+  "duration": 3355,
+  "description": "In this episode of Rarefied, host Meredith Meeker dives into the fascinating world of freshwater mussels, focusing on the snuffbox mussel's crucial role in maintaining healthy freshwater ecosystems. Joined by Dr. Catherine Febria and PhD student Lauren Damphousse from the University of Windsor, the discussion covers the unique biology and habitat of the snuffbox, the challenges they face due to environmental changes, and ongoing conservation efforts. Key highlights include the mussels' intricate reproductive strategies, their status as canaries in the coal mine for water quality, and the importance of community and conservation efforts to ensure their survival. https://www.facetsjournal.com/doi/10.1139/facets-2022-0207 Bkejwanong Eco-Keepers love mussels, too: https://www.youtube.com/watch?v=NvNSe6gCbDI&t=2sSnuffbox traps a logperch: https://www.youtube.com/watch?v=-1YcaIN8cRs https://www.youtube.com/watch?v=I0YTBj0WHkU00:00 Introduction to Rarefied Podcast",
+  "species": {
+    "commonName": "Snuffbox",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "snuffbox.jpg",
+    "imageAlt": "Snuffbox featured in episode 24"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/17206539-snuffbox-more-than-a-filter.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/2j1ZgkOCvnUczSS4IzS3pv",
+  "spotifyEmbedId": "2j1ZgkOCvnUczSS4IzS3pv",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Catherine Febria",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:41",
+      "timeInSeconds": 41,
+      "title": "Meet the Snuffbox Mussel"
+    },
+    {
+      "time": "01:27",
+      "timeInSeconds": 87,
+      "title": "Guest Introductions"
+    },
+    {
+      "time": "03:38",
+      "timeInSeconds": 218,
+      "title": "Understanding Freshwater Mussels"
+    },
+    {
+      "time": "06:13",
+      "timeInSeconds": 373,
+      "title": "Habitat and Behavior of Mussels"
+    },
+    {
+      "time": "09:21",
+      "timeInSeconds": 561,
+      "title": "Reproductive Strategies of Mussels"
+    },
+    {
+      "time": "14:58",
+      "timeInSeconds": 898,
+      "title": "Threats to Freshwater Mussels"
+    },
+    {
+      "time": "19:14",
+      "timeInSeconds": 1154,
+      "title": "Conservation Efforts and Community Involvement"
+    },
+    {
+      "time": "25:15",
+      "timeInSeconds": 1515,
+      "title": "Field Work and Research Techniques"
+    },
+    {
+      "time": "30:41",
+      "timeInSeconds": 1841,
+      "title": "Understanding Mussel Translocation Challenges"
+    },
+    {
+      "time": "31:57",
+      "timeInSeconds": 1917,
+      "title": "Freshwater Restoration and the Endangered Species Act"
+    },
+    {
+      "time": "32:43",
+      "timeInSeconds": 1963,
+      "title": "Assessing the Mackey Protocol and Translocation Data"
+    },
+    {
+      "time": "33:19",
+      "timeInSeconds": 1999,
+      "title": "The Importance of Site-Specific Conditions"
+    },
+    {
+      "time": "37:08",
+      "timeInSeconds": 2228,
+      "title": "Community Involvement in Conservation Efforts"
+    },
+    {
+      "time": "39:32",
+      "timeInSeconds": 2372,
+      "title": "Citizen Science and the Clam Counter App"
+    },
+    {
+      "time": "41:38",
+      "timeInSeconds": 2498,
+      "title": "Field Stories and Team Building"
+    },
+    {
+      "time": "43:27",
+      "timeInSeconds": 2607,
+      "title": "Rapid Fire Questions and Fun Facts"
+    },
+    {
+      "time": "51:22",
+      "timeInSeconds": 3082,
+      "title": "Hope and Future Directions in Conservation"
+    },
+    {
+      "time": "54:22",
+      "timeInSeconds": 3262,
+      "title": "Conclusion and Final Thoughts"
+    }
+  ],
+  "resources": [
+    {
+      "title": "facets-2022-0207",
+      "url": "https://www.facetsjournal.com/doi/10.1139/facets-2022-0207"
+    },
+    {
+      "title": "watch?v=NvNSe6gCbDI&amp;t=2s",
+      "url": "https://www.youtube.com/watch?v=NvNSe6gCbDI&amp;t=2s"
+    },
+    {
+      "title": "watch?v=-1YcaIN8cRs",
+      "url": "https://www.youtube.com/watch?v=-1YcaIN8cRs"
+    },
+    {
+      "title": "watch?v=I0YTBj0WHkU",
+      "url": "https://www.youtube.com/watch?v=I0YTBj0WHkU"
+    }
+  ],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-17206539"
+}

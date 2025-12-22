@@ -1,0 +1,44 @@
+{
+  "id": "ep-3",
+  "slug": "blandings-turtle",
+  "title": "Blanding’s Turtle",
+  "subtitle": "A Sunny Janitor",
+  "episodeNumber": 3,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "Join host Meredith Meeker on Rarefied Podcast as she embarks on a journey into Ontario's wetlands to spotlight the Blanding's turtle. This episode details their unique features, the threats they face, and the conservation efforts led by experts like Tanisha Agarwal (she/her) from the Toronto Zoo's Adopt-a-Pond program. Learn about the zoo's headstarting initiative, ongoing research, and the critical roles these vibrant turtles play in their ecosystem. Discover how zoos contribute to wildlife conservation and engage with community science projects to protect and preserve vulnerable species.",
+  "species": {
+    "commonName": "Blanding’s Turtle",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "and Care",
+    "habitat": "",
+    "specialPower": "",
+    "image": "blandings-turtle.png",
+    "imageAlt": "Blanding’s Turtle featured in episode 3"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "reptile",
+    "turtle",
+    "wetland",
+    "headstarting"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-tanisha-agarwal-blandings-turtle"
+}

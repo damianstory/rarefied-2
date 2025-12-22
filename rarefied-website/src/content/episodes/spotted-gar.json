@@ -1,0 +1,80 @@
+{
+  "id": "ep-3",
+  "slug": "spotted-gar",
+  "title": "Spotted Gar",
+  "subtitle": "Should be every kids favourite animal",
+  "episodeNumber": 3,
+  "season": 1,
+  "publishedAt": "2024-12-05",
+  "duration": 2676,
+  "description": "This episode of 'Rarified' introduces listeners to the rare and endangered Spotted Gar, a unique fish inhabiting the shallow coastal waters of Lake Erie. Host interviews Dominique Rumble, a PhD student from the University of Toronto, who shares insights from her conservation research on the Spotted Gar. They discuss the fish's distinctive characteristics, behavior, habitat, and the main threats to their survival. Dominique also reminisces about fieldwork adventures and emphasizes the importance of wetland restoration projects. 00:00 Introduction to Rarified Podcast00:27 Meet the Spotted Gar01:34 Understanding the Spotted Gar04:20 Habitat and Threats12:30 Conservation Efforts19:56 Fieldwork Adventures25:02 Research and Future Plans43:36 Conclusion and Next Episode Teaser",
+  "species": {
+    "commonName": "Spotted Gar",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "spotted-gar.webp",
+    "imageAlt": "Spotted Gar, an endangered fish with distinctive spots"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16224662-spotted-gar-should-be-every-kids-favourite-animal.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/2hWmFb4yQH9hOqTrobPNmD",
+  "spotifyEmbedId": "2hWmFb4yQH9hOqTrobPNmD",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Dominique Rumble",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarified Podcast"
+    },
+    {
+      "time": "00:27",
+      "timeInSeconds": 27,
+      "title": "Meet the Spotted Gar"
+    },
+    {
+      "time": "01:34",
+      "timeInSeconds": 94,
+      "title": "Understanding the Spotted Gar"
+    },
+    {
+      "time": "04:20",
+      "timeInSeconds": 260,
+      "title": "Habitat and Threats"
+    },
+    {
+      "time": "12:30",
+      "timeInSeconds": 750,
+      "title": "Conservation Efforts"
+    },
+    {
+      "time": "19:56",
+      "timeInSeconds": 1196,
+      "title": "Fieldwork Adventures"
+    },
+    {
+      "time": "25:02",
+      "timeInSeconds": 1502,
+      "title": "Research and Future Plans"
+    },
+    {
+      "time": "43:36",
+      "timeInSeconds": 2616,
+      "title": "Conclusion and Next Episode Teaser"
+    }
+  ],
+  "resources": [],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-16224662"
+}

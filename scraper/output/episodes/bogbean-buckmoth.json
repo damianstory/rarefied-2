@@ -1,0 +1,44 @@
+{
+  "id": "ep-11",
+  "slug": "bogbean-buckmoth",
+  "title": "Bogbean Buckmoth",
+  "subtitle": "Bold and Beautiful",
+  "episodeNumber": 11,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of 'Rarefied,' host Meredith Meeker introduces listeners to the Bogbean Buck Moth, an endangered, brightly patterned, daytime-flying moth reliant on wetland habitats. With guest Peter Soroye, the Biodiversity Outreach Coordinator at Wildlife Conservation Society Canada, the podcast delves into the moth's distinct characteristics, specialized habitat needs, and the conservation challenges it faces due to habitat loss and environmental changes. Peter discusses the important role of Key Biodiversity Areas (KBAs) and collective conservation efforts in Canada, emphasizing community science and the need for continued stewardship. The episode bridges scientific insight and practical conservation efforts, illustrating the importance of protecting even the smallest and rarest species to maintain ecological integrity.",
+  "species": {
+    "commonName": "Bogbean Buckmoth",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "needs, and the conservation challenges it faces due to habitat loss and environmental changes. Peter discusses the important role of Key Biodiversity Areas (KBAs) and collective conservation efforts in Canada, emphasizing community science and the need for continued stewardship. The episode bridges scientific insight and practical conservation efforts, illustrating the importance of protecting even the smallest and rarest species to maintain ecological integrity.",
+    "specialPower": "",
+    "image": "bogbean-buckmoth.png",
+    "imageAlt": "Bogbean Buckmoth featured in episode 11"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "endangered",
+    "pollinators",
+    "insects",
+    "wetland",
+    "kba"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-peter-soroye-bogbean-buckmoth"
+}

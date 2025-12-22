@@ -1,0 +1,44 @@
+{
+  "id": "ep-12",
+  "slug": "midseason-recap",
+  "title": "Midseason Recap",
+  "subtitle": "Reflecting on Rare Species",
+  "episodeNumber": 12,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of 'Rarefied,' host Meredith Meeker revisits the past 14 episodes to reflect on the conservation efforts for some endangered and imperiled species across North America. Starting with the central theme of habitat loss and delving into issues like diseases, pests, recreation, and climate change, the episode intertwines powerful success stories and actionable steps for conservation. Guests such as Andrea Gielens, Nina Hunt, and William Halliday provide insights on species like the Oregon Spotted Frog, Black Ash, and beluga whales. Community science and individual actions are highlighted as vital tools in making conservation a tangible effort. The episode wraps up with fascinating fun facts, from the unique adaptations of the Spotted Gar to the lifecycle of the rusty patch bumblebee, to stir interest and hope for the future.",
+  "species": {
+    "commonName": "Midseason Recap",
+    "scientificName": "",
+    "status": "Extinct",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "loss and delving into issues like diseases, pests, recreation, and climate change, the episode intertwines powerful success stories and actionable steps for conservation. Guests such as Andrea Gielens, Nina Hunt, and William Halliday provide insights on species like the Oregon Spotted Frog, Black Ash, and beluga whales. Community science and individual actions are highlighted as vital tools in making conservation a tangible effort. The episode wraps up with fascinating fun facts, from the unique adaptations of the Spotted Gar to the lifecycle of the rusty patch bumblebee, to stir interest and hope for the future.",
+    "specialPower": "",
+    "image": "midseason-recap.jpg",
+    "imageAlt": "Midseason Recap featured in episode 12"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "summary",
+    "threats",
+    "conservation success",
+    "call to action",
+    "fun facts"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-midseason-recap"
+}

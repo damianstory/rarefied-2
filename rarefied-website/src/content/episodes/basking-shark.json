@@ -1,0 +1,148 @@
+{
+  "id": "ep-23",
+  "slug": "basking-shark",
+  "title": "Basking Shark",
+  "subtitle": "Disappeared or at Depth?",
+  "episodeNumber": 23,
+  "season": 1,
+  "publishedAt": "2025-05-15",
+  "duration": 3307,
+  "description": "Exploring the Ocean's Gentle Giants: A Dive into Basking Sharks with Dr. Dave EbertIn this episode of 'Rarefied,' host Meredith Meeker dives into the world of the basking shark, one of the ocean's gentle giants. Joining her is Dr. Dave Ebert, a renowned shark scientist and the director of the Pacific Shark Research Center. They discuss the enigmatic basking shark, its behaviors, threats, and the mystery of its declining numbers. Dr. Ebert also shares stories from his extensive fieldwork, the importance of shark conservation, and the fascinating behaviors of various shark species. Listeners will learn about the significance of sharks in the marine ecosystem, the challenges of studying elusive species, and the critical role of education and awareness in conservation efforts. This episode is packed with intriguing facts, expert insights, and passionate advocacy for our ocean's most misunderstood inhabitants.Lost Sharks series: https://www.youtube.com",
+  "species": {
+    "commonName": "Basking Shark",
+    "scientificName": "Cetorhinus maximus",
+    "status": "Endangered",
+    "weight": "5,200 kg",
+    "length": "6-8 m",
+    "diet": "Plankton and small crustaceans",
+    "habitat": "",
+    "specialPower": "Going Deep",
+    "image": "basking-shark.jpg",
+    "imageAlt": "Basking Shark featured in episode 23"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/17166959-basking-shark-disappeared-or-at-depth.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/2YEzDnPZaWOOgx9RU7oI9p",
+  "spotifyEmbedId": "2YEzDnPZaWOOgx9RU7oI9p",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Dr. Dave Ebert",
+    "title": "Shark Scientist",
+    "organization": "Pacific Shark Research Center"
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:34",
+      "timeInSeconds": 34,
+      "title": "Meet the Basking Shark"
+    },
+    {
+      "time": "01:17",
+      "timeInSeconds": 77,
+      "title": "Interview with Dr. Dave Ebert"
+    },
+    {
+      "time": "02:18",
+      "timeInSeconds": 138,
+      "title": "Basking Shark Characteristics"
+    },
+    {
+      "time": "04:19",
+      "timeInSeconds": 259,
+      "title": "Basking Shark Population Decline"
+    },
+    {
+      "time": "07:00",
+      "timeInSeconds": 420,
+      "title": "Global Basking Shark Sightings"
+    },
+    {
+      "time": "08:29",
+      "timeInSeconds": 509,
+      "title": "The Mystery of Disappearing Sharks"
+    },
+    {
+      "time": "16:20",
+      "timeInSeconds": 980,
+      "title": "The Lost Sharks Program"
+    },
+    {
+      "time": "29:50",
+      "timeInSeconds": 1790,
+      "title": "Exploring the Diversity of Rays and Sharks"
+    },
+    {
+      "time": "30:13",
+      "timeInSeconds": 1813,
+      "title": "Challenges of Studying Deep-Sea Species"
+    },
+    {
+      "time": "31:50",
+      "timeInSeconds": 1910,
+      "title": "Searching for Lost Sharks"
+    },
+    {
+      "time": "32:59",
+      "timeInSeconds": 1979,
+      "title": "The Importance of Shark Conservation"
+    },
+    {
+      "time": "33:48",
+      "timeInSeconds": 2028,
+      "title": "Global Efforts in Shark Protection"
+    },
+    {
+      "time": "34:54",
+      "timeInSeconds": 2094,
+      "title": "The Mystery of Basking Sharks"
+    },
+    {
+      "time": "35:52",
+      "timeInSeconds": 2152,
+      "title": "The Vast Diversity of Shark Species"
+    },
+    {
+      "time": "37:40",
+      "timeInSeconds": 2260,
+      "title": "Encouraging Shark Research and Conservation"
+    },
+    {
+      "time": "41:34",
+      "timeInSeconds": 2494,
+      "title": "Fascinating Shark Behaviors and Discoveries"
+    },
+    {
+      "time": "44:42",
+      "timeInSeconds": 2682,
+      "title": "Rapid Fire Questions and Fun Facts"
+    },
+    {
+      "time": "53:10",
+      "timeInSeconds": 3190,
+      "title": "Concluding Thoughts and Call to Action"
+    }
+  ],
+  "resources": [
+    {
+      "title": "@lostsharkguy",
+      "url": "https://www.youtube.com/@lostsharkguy/"
+    },
+    {
+      "title": "Beyond Jaws",
+      "url": "https://www.speakupforblue.com/show/beyond-jaws/"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ocean",
+    "fish",
+    "shark",
+    "data gaps"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-dave-ebert-basking-shark",
+  "_rssGuid": "Buzzsprout-17166959"
+}

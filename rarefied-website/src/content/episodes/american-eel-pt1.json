@@ -1,0 +1,123 @@
+{
+  "id": "ep-16",
+  "slug": "american-eel-pt1",
+  "title": "American Eel",
+  "subtitle": "Ambassadors of the River part 1",
+  "episodeNumber": 16,
+  "season": 1,
+  "publishedAt": "2025-03-27",
+  "duration": 2898,
+  "description": "In this week's episode of Rarefied, host Meredith Meeker delves into the fascinating world of the American Eel. Despite its slimy and elusive nature, the American Eel is a remarkable and critical species. Meredith is joined by Chris Bowser, Education Coordinator for the New York State Department of Environmental Conservation, who shares his extensive knowledge on these unique creatures. Listeners will learn about the eel's life cycle, unique adaptations, and the significant threats they face, including habitat disruption and climate change. The episode also touches on the cultural and nutritional importance of eels, and how ongoing conservation efforts aim to safeguard their future. This is the first part of a two-part series, with more intriguing details and actionable ways to help eels to be discussed in the next episode.https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272https://www.frontiersin.org/journals/human-dynamics/arti",
+  "species": {
+    "commonName": "American Eel (Part 1)",
+    "scientificName": "Anguilla rostrata",
+    "status": "Endangered",
+    "weight": "",
+    "length": "50 cm",
+    "diet": "Spawning site: Sargasso Sea",
+    "habitat": "Freshwater Rivers",
+    "specialPower": "Survival",
+    "image": "american-eel.png",
+    "imageAlt": "American Eel featured in episode 16"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16858746-american-eel-ambassadors-of-the-river-part-1.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/0egLEMoD2agPDqIQ1e61vs",
+  "spotifyEmbedId": "0egLEMoD2agPDqIQ1e61vs",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Chris Bowser",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:33",
+      "timeInSeconds": 33,
+      "title": "Meet the American Eel"
+    },
+    {
+      "time": "02:18",
+      "timeInSeconds": 138,
+      "title": "Guest Introduction: Chris Bowser"
+    },
+    {
+      "time": "03:07",
+      "timeInSeconds": 187,
+      "title": "Understanding the American Eel"
+    },
+    {
+      "time": "09:25",
+      "timeInSeconds": 565,
+      "title": "Life Cycle of the American Eel"
+    },
+    {
+      "time": "17:03",
+      "timeInSeconds": 1023,
+      "title": "Eels in Freshwater Habitats"
+    },
+    {
+      "time": "18:21",
+      "timeInSeconds": 1101,
+      "title": "Challenges and Conservation"
+    },
+    {
+      "time": "22:27",
+      "timeInSeconds": 1347,
+      "title": "Finding Eels: Techniques and Tools"
+    },
+    {
+      "time": "24:42",
+      "timeInSeconds": 1482,
+      "title": "Volunteer Efforts and Data Collection"
+    },
+    {
+      "time": "26:05",
+      "timeInSeconds": 1565,
+      "title": "Yearly Data and Restoration Projects"
+    },
+    {
+      "time": "30:01",
+      "timeInSeconds": 1801,
+      "title": "The Threats Facing Eels"
+    },
+    {
+      "time": "31:38",
+      "timeInSeconds": 1898,
+      "title": "The Importance of Stream Connectivity"
+    },
+    {
+      "time": "40:15",
+      "timeInSeconds": 2415,
+      "title": "Eel Fisheries and Consumption"
+    },
+    {
+      "time": "47:17",
+      "timeInSeconds": 2837,
+      "title": "Conclusion and Next Steps"
+    }
+  ],
+  "resources": [
+    {
+      "title": "8108272'",
+      "url": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272'"
+    },
+    {
+      "title": "8108272",
+      "url": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272"
+    },
+    {
+      "title": "full",
+      "url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2023.1270644/full"
+    }
+  ],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-16858746"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ep-20",
+  "slug": "basking-shark",
+  "title": "Basking Shark",
+  "subtitle": "Disappeared or at Depth?",
+  "episodeNumber": 20,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "Exploring the Ocean's Gentle Giants: A Dive into Basking Sharks with Dr. Dave Ebert",
+  "species": {
+    "commonName": "Basking Shark",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "basking-shark.png",
+    "imageAlt": "Basking Shark featured in episode 20"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ocean",
+    "fish",
+    "shark",
+    "data gaps"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-dave-ebert-basking-shark"
+}

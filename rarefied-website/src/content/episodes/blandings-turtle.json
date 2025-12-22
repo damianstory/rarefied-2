@@ -1,0 +1,126 @@
+{
+  "id": "ep-6",
+  "slug": "blandings-turtle",
+  "title": "Blanding's Turtle",
+  "subtitle": "A Sunny Janitor",
+  "episodeNumber": 6,
+  "season": 1,
+  "publishedAt": "2025-01-16",
+  "duration": 1956,
+  "description": "Join host Meredith Meeker on Rarefied Podcast as she embarks on a journey into Ontario's wetlands to spotlight the Blanding's turtle. This episode details their unique features, the threats they face, and the conservation efforts led by experts like Tanisha Agarwal (she/her) from the Toronto Zoo's Adopt-a-Pond program. Learn about the zoo's headstarting initiative, ongoing research, and the critical roles these vibrant turtles play in their ecosystem. Discover how zoos contribute to wildlife conservation and engage with community science projects to protect and preserve vulnerable species.00:00 Introduction: A Legacy in Nature00:24 Welcome to Rarefied: Meet Your Host00:36 Journey into Ontario's Wetlands00:44 Spotlight on the Blanding's Turtle01:09 Personal Encounters and Rehabilitation02:01 How to Spot a Blanding's Turtle02:42 Challenges and Conservation Status03:09 Guest Introduction: Tenicia from Toronto Zoo03:57 Blanding's Turtle",
+  "species": {
+    "commonName": "Blanding's Turtle",
+    "scientificName": "Emydoidea blandingii",
+    "status": "Threatened",
+    "weight": "3 lbs",
+    "length": "",
+    "diet": "Fish, insects, carrion",
+    "habitat": "Large Wetlands",
+    "specialPower": "Janitor",
+    "image": "blandings-turtle.png",
+    "imageAlt": "Blanding's Turtle featured in episode 6"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16445787-blanding-s-turtle-a-sunny-janitor.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/3gCtPQwgo0o477nJNkRRwW",
+  "spotifyEmbedId": "3gCtPQwgo0o477nJNkRRwW",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction: A Legacy in Nature"
+    },
+    {
+      "time": "00:24",
+      "timeInSeconds": 24,
+      "title": "Welcome to Rarefied: Meet Your Host"
+    },
+    {
+      "time": "00:36",
+      "timeInSeconds": 36,
+      "title": "Journey into Ontario&apos;s Wetlands"
+    },
+    {
+      "time": "00:44",
+      "timeInSeconds": 44,
+      "title": "Spotlight on the Blanding&apos;s Turtle"
+    },
+    {
+      "time": "01:09",
+      "timeInSeconds": 69,
+      "title": "Personal Encounters and Rehabilitation"
+    },
+    {
+      "time": "02:01",
+      "timeInSeconds": 121,
+      "title": "How to Spot a Blanding&apos;s Turtle"
+    },
+    {
+      "time": "02:42",
+      "timeInSeconds": 162,
+      "title": "Challenges and Conservation Status"
+    },
+    {
+      "time": "03:09",
+      "timeInSeconds": 189,
+      "title": "Guest Introduction: Tenicia from Toronto Zoo"
+    },
+    {
+      "time": "03:57",
+      "timeInSeconds": 237,
+      "title": "Blanding&apos;s Turtle Diet and Care"
+    },
+    {
+      "time": "04:57",
+      "timeInSeconds": 297,
+      "title": "Toronto Zoo&apos;s Headstarting Program"
+    },
+    {
+      "time": "08:15",
+      "timeInSeconds": 495,
+      "title": "Tracking and Monitoring Success"
+    },
+    {
+      "time": "13:22",
+      "timeInSeconds": 802,
+      "title": "Threats to Blanding&apos;s Turtles"
+    },
+    {
+      "time": "16:25",
+      "timeInSeconds": 985,
+      "title": "Community Science and Conservation Efforts"
+    },
+    {
+      "time": "18:35",
+      "timeInSeconds": 1115,
+      "title": "The Importance of Blanding&apos;s Turtles"
+    },
+    {
+      "time": "20:36",
+      "timeInSeconds": 1236,
+      "title": "Field Memories and Fun Facts"
+    },
+    {
+      "time": "24:53",
+      "timeInSeconds": 1493,
+      "title": "The Role of Zoos in Conservation"
+    },
+    {
+      "time": "29:39",
+      "timeInSeconds": 1779,
+      "title": "Career Path and Final Thoughts"
+    },
+    {
+      "time": "31:52",
+      "timeInSeconds": 1912,
+      "title": "Conclusion and Next Episode Teaser"
+    }
+  ],
+  "resources": [],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-16445787"
+}

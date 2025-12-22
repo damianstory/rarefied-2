@@ -1,0 +1,42 @@
+{
+  "id": "ep-8",
+  "slug": "rusty",
+  "title": "Rusty",
+  "subtitle": "Patched Bumble Bee: An Abstract Artist",
+  "episodeNumber": 8,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of Rarefied, host Meredith Meeker explores the precarious situation of the rusty patch bumblebee. Meeker is joined by Elaine Evans, an Extension Educator and Researcher at the University of Minnesota, and Mary Powley, a PhD student in the Native Bee Lab at the same university. Together, they discuss the unique characteristics, habitats, and life cycles of the rusty patch bumblebee. They delve into the factors causing its decline, including disease, habitat loss, and climate change, and highlight ongoing research and community science efforts to help save the species. Through engaging anecdotes and detailed explanations, the episode promotes awareness and conservation actions that individuals can take to support these essential pollinators.",
+  "species": {
+    "commonName": "Rusty",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "loss, and climate change, and highlight ongoing research and community science efforts to help save the species. Through engaging anecdotes and detailed explanations, the episode promotes awareness and conservation actions that individuals can take to support these essential pollinators.",
+    "specialPower": "",
+    "image": "rusty.png",
+    "imageAlt": "Rusty featured in episode 8"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "pollinators",
+    "insects",
+    "community science"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-evans-powely-rusty-patched-bumble-bee"
+}

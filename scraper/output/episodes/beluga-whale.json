@@ -1,0 +1,43 @@
+{
+  "id": "ep-7",
+  "slug": "beluga-whale",
+  "title": "Beluga Whale",
+  "subtitle": "Canaries of the sea",
+  "episodeNumber": 7,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "On this episode of Rarified listeners are introduced to the beluga whale. Renowned for its unique vocalizations and smiling visage, the beluga whale inhabits the Arctic and sub-Arctic waters. With conservation scientist William Halliday, the podcast dives into the life of belugas, exploring their behaviors, unique adaptations, and the threats they face, such as climate change and increased human activity in the Arctic. They discuss conservation efforts, traditional ecological knowledge from Indigenous communities, and how studies like acoustic monitoring and tagging help understand and protect these 'canaries of the sea.'",
+  "species": {
+    "commonName": "Beluga Whale",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "beluga-whale.png",
+    "imageAlt": "Beluga Whale featured in episode 7"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "arctic",
+    "mammal",
+    "marine",
+    "noise pollution"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-william-halliday-beluga-whale"
+}

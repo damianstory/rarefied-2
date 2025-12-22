@@ -1,0 +1,43 @@
+{
+  "id": "ep-5",
+  "slug": "redside-dace",
+  "title": "Redside Dace",
+  "subtitle": "Canada's jumping minnow",
+  "episodeNumber": 5,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of the Rarefied podcast, host Meredith Meeker explores the conservation efforts for the redside dace, a critically endangered fish found in the Greater Toronto Area (GTA). Meeker interviews Kat Lucas, outreach and communications coordinator at Ontario Streams, who explains the threats facing this unique minnow and the initiatives in place to preserve its habitat. The discussion highlights the importance of clean, clear, and cool water for the redside dace's survival, as well as the role of environmental education and community involvement in conservation. Lucas shares success stories and practical tips on how individuals can contribute to protecting this species, emphasizing the ecological and personal significance of healthy freshwater ecosystems.https://www.ontariostreams.on.ca/",
+  "species": {
+    "commonName": "Redside Dace",
+    "scientificName": "",
+    "status": "Endangered",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "08:26 Conservation Strategies and Success Stories",
+    "specialPower": "",
+    "image": "redside-dace.png",
+    "imageAlt": "Redside Dace featured in episode 5"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "endangered",
+    "fish",
+    "urban species"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-kat-lucas-redside-dace"
+}

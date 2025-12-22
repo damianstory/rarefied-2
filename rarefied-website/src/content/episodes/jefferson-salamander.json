@@ -1,0 +1,124 @@
+{
+  "id": "ep-20",
+  "slug": "jefferson-salamander",
+  "title": "Jefferson Salamander",
+  "subtitle": "Do a little dance",
+  "episodeNumber": 20,
+  "season": 1,
+  "publishedAt": "2025-04-24",
+  "duration": 2501,
+  "description": "In this episode of Rarefied the podcast, host Meredith Meeker delves into the intriguing world of the Jefferson Salamander, a rare and imperiled amphibian found in Ontario, Canada. Meredith is joined by Jessica Linton, a senior biologist and project manager at NRSI, who shares her expertise on the species' lifecycle, habitat, and the unique reproductive strategy involving unisexual salamanders. The discussion also covers the threats facing the Jefferson Salamander, including habitat loss and climate change, and outlines efforts being made to protect this essential species, from road closures to conservation advocacy. Listeners are encouraged to take action to support endangered species protection and learn more about the fascinating lives of these elusive creatures.https://ecojustice.ca/news/ford-government-guts-endangered-species-act-slashes-wildlife-protections-in-ontario/?utm_campaign=Nature&utm_content=330670154&utm_medium=social&utm_source=linkedin&a",
+  "species": {
+    "commonName": "Jefferson Salamander",
+    "scientificName": "Ambystoma jeffersonianum",
+    "status": "Endangered",
+    "weight": "",
+    "length": "12-20 cm",
+    "diet": "Invertebrates",
+    "habitat": "Ephemeral Ponds",
+    "specialPower": "Invisibility",
+    "image": "jefferson-salamander.png",
+    "imageAlt": "Jefferson Salamander featured in episode 20"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/17034229-jefferson-salamander-do-a-little-dance.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/12TQD8excH0JpjL9IobWP2",
+  "spotifyEmbedId": "12TQD8excH0JpjL9IobWP2",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Jessica Linton",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:33",
+      "timeInSeconds": 33,
+      "title": "Meet the Jefferson Salamander"
+    },
+    {
+      "time": "01:54",
+      "timeInSeconds": 114,
+      "title": "Lifecycle and Unique Traits"
+    },
+    {
+      "time": "04:57",
+      "timeInSeconds": 297,
+      "title": "Habitat and Conservation Challenges"
+    },
+    {
+      "time": "05:57",
+      "timeInSeconds": 357,
+      "title": "Reproductive Strategies and Genetic Complexity"
+    },
+    {
+      "time": "14:06",
+      "timeInSeconds": 846,
+      "title": "Conservation Efforts and Public Engagement"
+    },
+    {
+      "time": "14:34",
+      "timeInSeconds": 874,
+      "title": "Threats and Protective Measures"
+    },
+    {
+      "time": "22:11",
+      "timeInSeconds": 1331,
+      "title": "Public Involvement and Advocacy"
+    },
+    {
+      "time": "24:02",
+      "timeInSeconds": 1442,
+      "title": "Eco Justice and Conservation Efforts"
+    },
+    {
+      "time": "24:36",
+      "timeInSeconds": 1476,
+      "title": "Field Stories: Adventures with Salamanders"
+    },
+    {
+      "time": "26:38",
+      "timeInSeconds": 1598,
+      "title": "Salamander Trapping Techniques"
+    },
+    {
+      "time": "27:28",
+      "timeInSeconds": 1648,
+      "title": "Rapid Fire Questions: Fun Facts and Myths"
+    },
+    {
+      "time": "30:46",
+      "timeInSeconds": 1846,
+      "title": "Challenges and Successes in Salamander Conservation"
+    },
+    {
+      "time": "35:25",
+      "timeInSeconds": 2125,
+      "title": "Career Path and Outreach"
+    },
+    {
+      "time": "38:23",
+      "timeInSeconds": 2303,
+      "title": "Conclusion and Call to Action"
+    }
+  ],
+  "resources": [
+    {
+      "title": "?utm_campaign=Nature&amp;utm_content=330670154&amp;utm_medium=social&amp;utm_source=linkedin&amp;hss_channel=lcp-762549",
+      "url": "https://ecojustice.ca/news/ford-government-guts-endangered-species-act-slashes-wildlife-protections-in-ontario/?utm_campaign=Nature&amp;utm_content=330670154&amp;utm_medium=social&amp;utm_source=linkedin&amp;hss_channel=lcp-762549"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "wetland",
+    "amphibian",
+    "ontario",
+    "road mortality"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-jessica-linton-jefferson-salamander",
+  "_rssGuid": "Buzzsprout-17034229"
+}

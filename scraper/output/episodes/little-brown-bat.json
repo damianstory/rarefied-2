@@ -1,0 +1,41 @@
+{
+  "id": "ep-10",
+  "slug": "little-brown-bat",
+  "title": "Little Brown Bat",
+  "subtitle": "Tiny Sky Shark",
+  "episodeNumber": 10,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of 'Rarefied', host Meredith Meeker takes listeners on an adventure into the nocturnal world, featuring the little brown bat, one of North America's endangered bat species. The discussion includes detailed descriptions of the bat's physical characteristics, behaviors, and the severe threats they face, like White Nose Syndrome. Meeker shares personal experiences with bats and highlights conservation efforts alongside guest Dr. Christina Davy, an associate professor at Carleton University. Davy provides insights into bat research, challenges faced in their conservation, and actionable steps people can take to protect these essential aerial insectivores. The episode wraps up with hopeful notes on future conservation actions and their impact.",
+  "species": {
+    "commonName": "Little Brown Bat",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "little-brown-bat.png",
+    "imageAlt": "Little Brown Bat featured in episode 10"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "mammal",
+    "urban species"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-christina-davy-little-brown-bat"
+}

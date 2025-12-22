@@ -1,0 +1,86 @@
+{
+  "id": "ep-1",
+  "slug": "loggerhead-shrike",
+  "title": "Loggerhead Shrike",
+  "subtitle": "Predator in Songbird's Disguise",
+  "episodeNumber": 1,
+  "season": 1,
+  "publishedAt": "2024-11-21",
+  "duration": 2545,
+  "description": "In the debut episode of Rarefied, explore the captivating world of the Loggerhead Shrike, a small songbird with a predilection for predation. We'll take listeners to Ontario’s grasslands, revealing the bird's unique hunting behaviors, decline in populations, and the conservation efforts led by Hazel Wheeler from Wildlife Preservation Canada. Learn about the challenges and strategies in preserving this rare species and the importance of protecting genetic diversity in changing environments. This episode offers vivid field stories, insights into breeding programs, and practical ways for the public to contribute to conservation. Tune in to discover how every species has a story and how we all can make a difference.00:00 Introduction to Rarefied Podcast00:28 Meet the Loggerhead Shrike00:48 Loggerhead Shrike's Hunting Habits01:16 Conservation Efforts with Hazel Wheeler01:52 Loggerhead Shrike's Habitat and Migration10:03 Challenges Facing Loggerhead Shrikes1",
+  "species": {
+    "commonName": "Loggerhead Shrike",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "loggerhead-shrike.jpg",
+    "imageAlt": "Loggerhead Shrike featured in episode 1"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16144535-loggerhead-shrike-predator-in-songbird-s-disguise.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/3ix8M46NHR3eWLA671o3kO",
+  "spotifyEmbedId": "3ix8M46NHR3eWLA671o3kO",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:28",
+      "timeInSeconds": 28,
+      "title": "Meet the Loggerhead Shrike"
+    },
+    {
+      "time": "00:48",
+      "timeInSeconds": 48,
+      "title": "Loggerhead Shrike&apos;s Hunting Habits"
+    },
+    {
+      "time": "01:16",
+      "timeInSeconds": 76,
+      "title": "Conservation Efforts with Hazel Wheeler"
+    },
+    {
+      "time": "01:52",
+      "timeInSeconds": 112,
+      "title": "Loggerhead Shrike&apos;s Habitat and Migration"
+    },
+    {
+      "time": "10:03",
+      "timeInSeconds": 603,
+      "title": "Challenges Facing Loggerhead Shrikes"
+    },
+    {
+      "time": "13:39",
+      "timeInSeconds": 819,
+      "title": "Captive Breeding Program"
+    },
+    {
+      "time": "27:41",
+      "timeInSeconds": 1661,
+      "title": "Field Work and Personal Stories"
+    },
+    {
+      "time": "37:24",
+      "timeInSeconds": 2244,
+      "title": "How You Can Help"
+    },
+    {
+      "time": "40:28",
+      "timeInSeconds": 2428,
+      "title": "Conclusion and Next Episode Teaser"
+    }
+  ],
+  "resources": [],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-16144535"
+}

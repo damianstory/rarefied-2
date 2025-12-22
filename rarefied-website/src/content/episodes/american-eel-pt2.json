@@ -1,0 +1,50 @@
+{
+  "id": "ep-17",
+  "slug": "american-eel-pt2",
+  "title": "American Eel",
+  "subtitle": "Ambassador of the River Part 2",
+  "episodeNumber": 17,
+  "season": 1,
+  "publishedAt": "2025-04-03",
+  "duration": 2258,
+  "description": "In this episode of 'Rarefied,' host Meredith Meeker continues a deep dive into the life and conservation of the American eel alongside guest Chris Bowser, an education coordinator for the NYSDEC Hudson River Estuary Program. The discussion covers practical ways to help protect eels, debunks myths about the species, and touches on the storied cultural significance of eels around the globe. From community science projects to personal anecdotes about eel encounters, listeners will find a renewed appreciation for this often misunderstood species. The episode also explains the concept of bioaccumulation and provides insights into how individuals can contribute to environmental conservation. Don't miss the rapid-fire questions where Chris shares fascinating and often quirky facts about eels. 00:00 Introduction: A Legacy in Nature 00:23 Welcome Back: The Adventure Continues 00:34 Deep Dive into the American Eel 00:44 Solutions and Myths about American Eels 01:02 M",
+  "species": {
+    "commonName": "American Eel (Part 2)",
+    "scientificName": "Anguilla rostrata",
+    "status": "Endangered",
+    "weight": "",
+    "length": "50 cm",
+    "diet": "Spawning site: Sargasso Sea",
+    "habitat": "Freshwater Rivers",
+    "specialPower": "Survival",
+    "image": "american-eel.png",
+    "imageAlt": "American Eel featured in episode 17"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16858863-american-eel-ambassador-of-the-river-part-2.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/1P3te2XKHMyhVKxKa1SIAz",
+  "spotifyEmbedId": "1P3te2XKHMyhVKxKa1SIAz",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction: A Legacy in Nature 00:23 Welcome Back: The Adventure Continues 00:34 Deep Dive into the American Eel 00:44 Solutions and Myths about American Eels 01:02 Meet Chris Bowser: Eel Expert 01:42 How You Can Help: Community Science and Conservation 07:04 Eel Stories and Cultural Significance 12:00 Rapid Fire Questions: Fun Eel Facts 33:48 Scientific Concepts: Bioaccumulation 36:14 Conclusion: Protecting Our Planet&apos;s Rare Species"
+    }
+  ],
+  "resources": [
+    {
+      "title": "8108272'",
+      "url": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272'"
+    },
+    {
+      "title": "8108272",
+      "url": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272"
+    }
+  ],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-16858863"
+}

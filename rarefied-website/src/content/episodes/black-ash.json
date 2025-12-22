@@ -1,0 +1,106 @@
+{
+  "id": "ep-9",
+  "slug": "black-ash",
+  "title": "Black Ash",
+  "subtitle": "An Elusive Tree",
+  "episodeNumber": 9,
+  "season": 1,
+  "publishedAt": "2025-02-06",
+  "duration": 2183,
+  "description": "In this episode of Rarefied, host Meredith Meeker explores the fascinating world of the black ash tree and its conservation challenges. Featuring guests Nina Hunt and Heather Zurbrigg from the Forest Gene Conservation Association (FGCA), the discussion covers the tree's ecological and cultural significance, particularly its role in wetlands and its connection to Indigenous communities. The episode delves into the impact of the invasive emerald ash borer, efforts to identify and propagate resistant trees, and collaborations with various research, government, and Indigenous organizations. Listeners are encouraged to participate in conservation efforts through citizen science platforms like iNaturalist and TreeSnap. The episode highlights the importance of preserving genetic diversity and fostering partnerships in the fight to save this keystone species.fgca.net www.inaturalist.org/projects/ontario-black-ash-inventory,treesnap.org/00:00 Introduction to Rareified Podcast",
+  "species": {
+    "commonName": "Black Ash",
+    "scientificName": "Fraxinus nigra",
+    "status": "Endangered",
+    "weight": "50 cm wide",
+    "length": "15-20 m tall",
+    "diet": "",
+    "habitat": "Swamp",
+    "specialPower": "Common But Elusive",
+    "image": "black-ash.jpg",
+    "imageAlt": "Black Ash featured in episode 9"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16571981-black-ash-an-elusive-tree.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/2Ot4CLg4Pj4nVAcR75meL8",
+  "spotifyEmbedId": "2Ot4CLg4Pj4nVAcR75meL8",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "various research",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rareified Podcast"
+    },
+    {
+      "time": "00:34",
+      "timeInSeconds": 34,
+      "title": "Meredith&apos;s College Days and Black Ash Introduction"
+    },
+    {
+      "time": "01:21",
+      "timeInSeconds": 81,
+      "title": "Black Ash Characteristics and Habitat"
+    },
+    {
+      "time": "02:02",
+      "timeInSeconds": 122,
+      "title": "Why Black Ash is Endangered"
+    },
+    {
+      "time": "02:22",
+      "timeInSeconds": 142,
+      "title": "Meet the Experts: Nina Hunt and Heather Zurbrig"
+    },
+    {
+      "time": "04:03",
+      "timeInSeconds": 243,
+      "title": "Black Ash Conservation Efforts"
+    },
+    {
+      "time": "05:24",
+      "timeInSeconds": 324,
+      "title": "Challenges and Strategies in Black Ash Conservation"
+    },
+    {
+      "time": "17:14",
+      "timeInSeconds": 1034,
+      "title": "The Role of Indigenous Communities"
+    },
+    {
+      "time": "22:23",
+      "timeInSeconds": 1343,
+      "title": "How You Can Help Save Black Ash"
+    },
+    {
+      "time": "27:30",
+      "timeInSeconds": 1650,
+      "title": "Personal Stories and Reflections"
+    },
+    {
+      "time": "35:26",
+      "timeInSeconds": 2126,
+      "title": "Conclusion and Next Episode Teaser"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "endangered",
+    "plants",
+    "trees",
+    "pest control",
+    "genetics"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-fgcablack-ash",
+  "_rssGuid": "Buzzsprout-16571981"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "ep-8",
+  "slug": "redside-dace",
+  "title": "Redside Dace",
+  "subtitle": "Canada's jumping minnow",
+  "episodeNumber": 8,
+  "season": 1,
+  "publishedAt": "2025-01-30",
+  "duration": 2333,
+  "description": "In this episode of the Rarefied podcast, host Meredith Meeker explores the conservation efforts for the redside dace, a critically endangered fish found in the Greater Toronto Area (GTA). Meeker interviews Kat Lucas, outreach and communications coordinator at Ontario Streams, who explains the threats facing this unique minnow and the initiatives in place to preserve its habitat. The discussion highlights the importance of clean, clear, and cool water for the redside dace's survival, as well as the role of environmental education and community involvement in conservation. Lucas shares success stories and practical tips on how individuals can contribute to protecting this species, emphasizing the ecological and personal significance of healthy freshwater ecosystems.https://www.ontariostreams.on.ca/00:00 Introduction to Rarefied Podcast00:32 Exploring the Greater Toronto Area00:47 The Red Side Dace: An Endangered Species01:41 Challenges and Conservation Efforts01:51 Mee",
+  "species": {
+    "commonName": "Redside Dace",
+    "scientificName": "Clinostomus elongatus",
+    "status": "Endangered",
+    "weight": "",
+    "length": "12 cm",
+    "diet": "Terrestrial Insects",
+    "habitat": "Cool water streams",
+    "specialPower": "Jumping Predator",
+    "image": "redside-dace.png",
+    "imageAlt": "Redside Dace featured in episode 8"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16533084-redside-dace-canada-s-jumping-minnow.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/3kJzjtk6AKkBBR6RD60CdS",
+  "spotifyEmbedId": "3kJzjtk6AKkBBR6RD60CdS",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Kat Lucas",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:32",
+      "timeInSeconds": 32,
+      "title": "Exploring the Greater Toronto Area"
+    },
+    {
+      "time": "00:47",
+      "timeInSeconds": 47,
+      "title": "The Red Side Dace: An Endangered Species"
+    },
+    {
+      "time": "01:41",
+      "timeInSeconds": 101,
+      "title": "Challenges and Conservation Efforts"
+    },
+    {
+      "time": "01:51",
+      "timeInSeconds": 111,
+      "title": "Meet Kat Lucas from Ontario Streams"
+    },
+    {
+      "time": "03:16",
+      "timeInSeconds": 196,
+      "title": "Understanding the Red Side Dace"
+    },
+    {
+      "time": "05:33",
+      "timeInSeconds": 333,
+      "title": "Human Impact on Red Side Dace Habitat"
+    },
+    {
+      "time": "08:26",
+      "timeInSeconds": 506,
+      "title": "Conservation Strategies and Success Stories"
+    },
+    {
+      "time": "23:24",
+      "timeInSeconds": 1404,
+      "title": "How You Can Help"
+    },
+    {
+      "time": "34:08",
+      "timeInSeconds": 2048,
+      "title": "Kat Lucas' Journey and Final Thoughts"
+    },
+    {
+      "time": "38:02",
+      "timeInSeconds": 2282,
+      "title": "Conclusion and Next Episode Teaser"
+    }
+  ],
+  "resources": [
+    {
+      "title": "ontariostreams.on.ca",
+      "url": "https://www.ontariostreams.on.ca/"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "endangered",
+    "fish",
+    "urban species"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-kat-lucas-redside-dace",
+  "_rssGuid": "Buzzsprout-16533084"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ep-13",
+  "slug": "american-eel",
+  "title": "American Eel",
+  "subtitle": "Ambassador of the River Part 1",
+  "episodeNumber": 13,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this week's episode of Rarefied, host Meredith Meeker delves into the fascinating world of the American Eel. Despite its slimy and elusive nature, the American Eel is a remarkable and critical species. Meredith is joined by Chris Bowser, Education Coordinator for the New York State Department of Environmental Conservation, who shares his extensive knowledge on these unique creatures. Listeners will learn about the eel's life cycle, unique adaptations, and the significant threats they face, including habitat disruption and climate change. The episode also touches on the cultural and nutritional importance of eels, and how ongoing conservation efforts aim to safeguard their future. This is the first part of a two-part series, with more intriguing details and actionable ways to help eels to be discussed in the next episode.",
+  "species": {
+    "commonName": "American Eel",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "disruption and climate change. The episode also touches on the cultural and nutritional importance of eels, and how ongoing conservation efforts aim to safeguard their future. This is the first part of a two-part series, with more intriguing details and actionable ways to help eels to be discussed in the next episode.",
+    "specialPower": "",
+    "image": "american-eel.png",
+    "imageAlt": "American Eel featured in episode 13"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272",
+      "url": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272"
+    },
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "fun facts",
+    "endangered",
+    "fish",
+    "river"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-american-eel-chris-bowser-pt1-7xx59"
+}

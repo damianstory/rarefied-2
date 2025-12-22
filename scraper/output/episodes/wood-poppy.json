@@ -1,0 +1,43 @@
+{
+  "id": "ep-1",
+  "slug": "wood-poppy",
+  "title": "Wood Poppy",
+  "subtitle": "Flowers of hope",
+  "episodeNumber": 1,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of the Rarefied podcast, host interview Dr. Jenny McCune, an associate professor at the University of Lethbridge, to discuss her research on rare and endangered plant species in Canada. The focus is on the wood poppy, a bright yellow flower native to the Carolinian forest of Southwestern Ontario. Dr. McCune delves into its characteristics, habitat, genetic distinctions, and the challenges it faces due to habitat loss. She also highlights her lab's efforts in conservation translocations to establish new populations on protected lands, aiming to ensure the species' survival. This episode emphasizes the importance of botanical conservation and the complexities involved in saving endangered plants.",
+  "species": {
+    "commonName": "Wood Poppy",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "loss. She also highlights her lab's efforts in conservation translocations to establish new populations on protected lands, aiming to ensure the species' survival. This episode emphasizes the importance of botanical conservation and the complexities involved in saving endangered plants.",
+    "specialPower": "",
+    "image": "wood-poppy.png",
+    "imageAlt": "Wood Poppy featured in episode 1"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "plants",
+    "translocation",
+    "carolinian forest"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-jenny-mccune-wood-poppy"
+}

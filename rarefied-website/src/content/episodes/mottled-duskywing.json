@@ -1,0 +1,35 @@
+{
+  "id": "ep-2",
+  "slug": "mottled-duskywing",
+  "title": "Mottled Duskywing",
+  "subtitle": "Butterflies are resilient",
+  "episodeNumber": 2,
+  "season": 1,
+  "publishedAt": "2024-11-28",
+  "duration": 2708,
+  "description": "In this episode of Rarefied, we head to the savannahs and grasslands of Ontario to uncover the story of one of the province’s most endangered butterflies: the Mottled Duskywing. Despite its subtle appearance, this resilient butterfly plays a vital role in its ecosystem.Our guest, Dr. Ryan Norris, Professor in the Department of Integrative Biology, shares his journey working with the Ontario Butterfly Species at Risk Recovery Team. He dives into the science behind reintroducing the Mottled Duskywing to its natural habitats—oak savannas and tallgrass prairies—and explains why saving even the smallest species matters.What You'll Learn in This Episode:Why the Mottled Duskywing is at risk and what makes it unique.The challenges and successes of reintroducing endangered species to the wild.How conservation efforts can inspire hope for endangered species worldwide.About Our Guest:Dr. Ryan Norris is a Professor in the Department of Integrative Biology. His research focuses o",
+  "species": {
+    "commonName": "Mottled Duskywing",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "placeholder.jpg",
+    "imageAlt": "Mottled Duskywing featured in episode 2"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16185274-mottled-duskywing-butterflies-are-resilient.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/4gZulSAHyGmxuSpXjiPsaP",
+  "spotifyEmbedId": "4gZulSAHyGmxuSpXjiPsaP",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-16185274"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ep-7",
+  "slug": "piping-plover",
+  "title": "Piping Plover",
+  "subtitle": "Super Power Confidence",
+  "episodeNumber": 7,
+  "season": 1,
+  "publishedAt": "2025-01-23",
+  "duration": 2522,
+  "description": "In this episode of 'Rarefied,' host Meredith Meeker takes listeners on a journey to the beach to learn about the elusive and endangered piping plover. Despite its vulnerability, this small shorebird wins hearts with its charming appearance and behaviors. Meredith is joined by Sydney Shepherd, the coordinator of the Ontario piping plover conservation program with Birds Canada. Sydney shares insights into the dedicated conservation efforts, including banding, monitoring, and habitat protection, that aim to secure the future of this species. They discuss the bird's breeding habits, the threats it faces, and how volunteers and the public can aid in its preservation. This episode not only highlights the scientific and hands-on efforts involved in saving the piping plover but also emphasizes the broader importance of community involvement and ecological awareness.Report Piping Plover Sightings to: ontarioplovers@birdscanada.org Sign-up for the Ontario Piping Plov",
+  "species": {
+    "commonName": "Piping Plover",
+    "scientificName": "Charadrius melodus",
+    "status": "Endangered",
+    "weight": "49 g",
+    "length": "",
+    "diet": "Small crustaceans and invertebrates",
+    "habitat": "Beaches above the high water line",
+    "specialPower": "Confidence",
+    "image": "piping-plover.jpg",
+    "imageAlt": "Piping Plover featured in episode 7"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16487456-piping-plover-super-power-confidence.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/5mRZFXfW4a6LkvIX2vqbNF",
+  "spotifyEmbedId": "5mRZFXfW4a6LkvIX2vqbNF",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "its charming",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to the Podcast"
+    },
+    {
+      "time": "00:35",
+      "timeInSeconds": 35,
+      "title": "Meet the Piping Plover"
+    },
+    {
+      "time": "01:31",
+      "timeInSeconds": 91,
+      "title": "Piping Plover Conservation Efforts"
+    },
+    {
+      "time": "01:58",
+      "timeInSeconds": 118,
+      "title": "Interview with Sydney Shepherd"
+    },
+    {
+      "time": "02:37",
+      "timeInSeconds": 157,
+      "title": "Piping Plover Behavior and Habitat"
+    },
+    {
+      "time": "07:45",
+      "timeInSeconds": 465,
+      "title": "Threats to Piping Plovers"
+    },
+    {
+      "time": "10:21",
+      "timeInSeconds": 621,
+      "title": "How You Can Help"
+    },
+    {
+      "time": "14:24",
+      "timeInSeconds": 864,
+      "title": "Volunteer Efforts and Success Stories"
+    },
+    {
+      "time": "22:37",
+      "timeInSeconds": 1357,
+      "title": "Personal Stories and Experiences"
+    },
+    {
+      "time": "40:55",
+      "timeInSeconds": 2455,
+      "title": "Conclusion and Next Episode Teaser"
+    }
+  ],
+  "resources": [
+    {
+      "title": "piping-plover-volunteers-and-newsletter",
+      "url": "https://mailchi.mp/63b4c87c5923/piping-plover-volunteers-and-newsletter"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "birds",
+    "shorebird",
+    "community science",
+    "endangered"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-sydney-shepherd-piping-plover",
+  "_rssGuid": "Buzzsprout-16487456"
+}

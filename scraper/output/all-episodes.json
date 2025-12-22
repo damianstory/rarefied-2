@@ -1,0 +1,874 @@
+[
+  {
+    "id": "ep-20",
+    "slug": "basking-shark",
+    "title": "Basking Shark",
+    "subtitle": "Disappeared or at Depth?",
+    "episodeNumber": 20,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "Exploring the Ocean's Gentle Giants: A Dive into Basking Sharks with Dr. Dave Ebert",
+    "species": {
+      "commonName": "Basking Shark",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "",
+      "specialPower": "",
+      "image": "basking-shark.png",
+      "imageAlt": "Basking Shark featured in episode 20"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "ocean",
+      "fish",
+      "shark",
+      "data gaps"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-dave-ebert-basking-shark"
+  },
+  {
+    "id": "ep-19",
+    "slug": "northern-spotted-owl",
+    "title": "Northern Spotted Owl",
+    "subtitle": "Messengers of the Old Growth Forests",
+    "episodeNumber": 19,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of Rarefied, host Meredith Meeker talks with Jasmine McCulligh (she/her), the facility coordinator at the Northern Spotted Owl Breeding Program. They discuss the critical situation of the Northern Spotted Owl, its unique reliance on old growth forests, and the significant challenges it faces from habitat loss and competition with Barred Owls. Jasmine shares insights into the breeding program, the complexities of reintroducing owls into the wild, and the importance of conservation efforts. Listeners will learn about the owl's specialized needs, the efforts to protect and expand their habitat, and the intricate care involved in breeding and releasing these endangered birds. Join us to discover the story of the Northern Spotted Owl and the dedicated efforts to ensure its survival.",
+    "species": {
+      "commonName": "Northern Spotted Owl",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "loss and competition with Barred Owls. Jasmine shares insights into the breeding program, the complexities of reintroducing owls into the wild, and the importance of conservation efforts. Listeners will learn about the owl's specialized needs, the efforts to protect and expand their habitat, and the intricate care involved in breeding and releasing these endangered birds. Join us to discover the story of the Northern Spotted Owl and the dedicated efforts to ensure its survival.",
+      "specialPower": "",
+      "image": "northern-spotted-owl.png",
+      "imageAlt": "Northern Spotted Owl featured in episode 19"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "captive breeding program",
+      "old growth forest",
+      "british colombia",
+      "birds"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-jasmine-mcculligh-northern-spotted-owl"
+  },
+  {
+    "id": "ep-18",
+    "slug": "southwest-spring-firefly",
+    "title": "Southwest Spring Firefly",
+    "subtitle": "The Gateway Bug",
+    "episodeNumber": 18,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of Rarefied the podcast, host Meredith Meeker delves into the intriguing world of the Jefferson Salamander, a rare and imperiled amphibian found in Ontario, Canada. Meredith is joined by Jessica Linton, a senior biologist and project manager at NRSI, who shares her expertise on the species' lifecycle, habitat, and the unique reproductive strategy involving unisexual salamanders. The discussion also covers the threats facing the Jefferson Salamander, including habitat loss and climate change, and outlines efforts being made to protect this essential species, from road closures to conservation advocacy. Listeners are encouraged to take action to support endangered species protection and learn more about the fascinating lives of these elusive creatures.",
+    "species": {
+      "commonName": "Southwest Spring Firefly",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "loss and climate change, and outlines efforts being made to protect this essential species, from road closures to conservation advocacy. Listeners are encouraged to take action to support endangered species protection and learn more about the fascinating lives of these elusive creatures.",
+      "specialPower": "",
+      "image": "southwest-spring-firefly.png",
+      "imageAlt": "Southwest Spring Firefly featured in episode 18"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "insects",
+      "united states",
+      "riparian",
+      "endangered"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-rachel-laura-southwest-spring-firefly"
+  },
+  {
+    "id": "ep-17",
+    "slug": "jefferson-salamander",
+    "title": "Jefferson Salamander",
+    "subtitle": "Do a little dance",
+    "episodeNumber": 17,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of Rarefied the podcast, host Meredith Meeker delves into the intriguing world of the Jefferson Salamander, a rare and imperiled amphibian found in Ontario, Canada. Meredith is joined by Jessica Linton, a senior biologist and project manager at NRSI, who shares her expertise on the species' lifecycle, habitat, and the unique reproductive strategy involving unisexual salamanders. The discussion also covers the threats facing the Jefferson Salamander, including habitat loss and climate change, and outlines efforts being made to protect this essential species, from road closures to conservation advocacy. Listeners are encouraged to take action to support endangered species protection and learn more about the fascinating lives of these elusive creatures.",
+    "species": {
+      "commonName": "Jefferson Salamander",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "loss and climate change, and outlines efforts being made to protect this essential species, from road closures to conservation advocacy. Listeners are encouraged to take action to support endangered species protection and learn more about the fascinating lives of these elusive creatures.",
+      "specialPower": "",
+      "image": "jefferson-salamander.png",
+      "imageAlt": "Jefferson Salamander featured in episode 17"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "wetland",
+      "amphibian",
+      "ontario",
+      "road mortality"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-jessica-linton-jefferson-salamander"
+  },
+  {
+    "id": "ep-16",
+    "slug": "vancouver-island-marmot",
+    "title": "Vancouver Island Marmot",
+    "subtitle": "Space Travel, Plague, and Nose Boops",
+    "episodeNumber": 16,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of Rarefied with host Meredith Meeker, we explore the inspiring recovery story of the critically imperiled Vancouver Island Marmot. Joining Meredith is Adam Taylor, Executive Director of the Marmot Recovery Foundation, who shares his extensive experience in wildlife conservation. Discussions include the unique biology and habitat of the Vancouver Island Marmot, the efforts and challenges of captive breeding programs, the role of human intervention, and the global significance of preserving biodiversity. This episode sheds light on the perseverance required to save endangered species and emphasizes the importance of conservation efforts.",
+    "species": {
+      "commonName": "Vancouver Island Marmot",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "of the Vancouver Island Marmot, the efforts and challenges of captive breeding programs, the role of human intervention, and the global significance of preserving biodiversity. This episode sheds light on the perseverance required to save endangered species and emphasizes the importance of conservation efforts.",
+      "specialPower": "",
+      "image": "vancouver-island-marmot.png",
+      "imageAlt": "Vancouver Island Marmot featured in episode 16"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "mammal",
+      "mountains",
+      "captive breeding program",
+      "rodent",
+      "west coast"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-adam-taylor-vancouver-island-marmot"
+  },
+  {
+    "id": "ep-15",
+    "slug": "chimney-swift",
+    "title": "Chimney Swift",
+    "subtitle": "Your Good Neighbor",
+    "episodeNumber": 15,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of Rarefied, host Meredith Meeker spotlights the Chimney Swift, a bird known for its aerial acrobatics and unique nesting habits. Despite their global security, Chimney Swifts face vulnerability and imperilment across Canada. Meredith is joined by experts Gabriel Evans Cook, Ontario's aerial insectivore biologist, and Gwendolyn Clark, coordinator of the Chimney Swift Chimney Restoration Fund at Birds Canada. They discuss the Chimney Swift's adaptation to urban environments, the threats they face, and the initiatives in place to conserve their habitat. This episode emphasizes the integral role of citizen science and community engagement in species conservation.",
+    "species": {
+      "commonName": "Chimney Swift",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "and Adaptation",
+      "specialPower": "",
+      "image": "chimney-swift.png",
+      "imageAlt": "Chimney Swift featured in episode 15"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "threatened",
+      "birds",
+      "aerial insectivore",
+      "urban species"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-chimney-swift-birds-canada"
+  },
+  {
+    "id": "ep-14",
+    "slug": "american-eel",
+    "title": "American Eel",
+    "subtitle": "Ambassador of the River Part 2",
+    "episodeNumber": 14,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of 'Rarefied,' host Meredith Meeker continues a deep dive into the life and conservation of the American eel alongside guest Chris Bowser, an education coordinator for the NYSDEC Hudson River Estuary Program. The discussion covers practical ways to help protect eels, debunks myths about the species, and touches on the storied cultural significance of eels around the globe. From community science projects to personal anecdotes about eel encounters, listeners will find a renewed appreciation for this often misunderstood species. The episode also explains the concept of bioaccumulation and provides insights into how individuals can contribute to environmental conservation. Don't miss the rapid-fire questions where Chris shares fascinating and often quirky facts about eels.",
+    "species": {
+      "commonName": "American Eel",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "",
+      "specialPower": "",
+      "image": "american-eel.png",
+      "imageAlt": "American Eel featured in episode 14"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272",
+        "url": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272"
+      },
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "fun facts",
+      "endangered",
+      "fish",
+      "river"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-american-eel-chris-bowser-pt2"
+  },
+  {
+    "id": "ep-13",
+    "slug": "american-eel",
+    "title": "American Eel",
+    "subtitle": "Ambassador of the River Part 1",
+    "episodeNumber": 13,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this week's episode of Rarefied, host Meredith Meeker delves into the fascinating world of the American Eel. Despite its slimy and elusive nature, the American Eel is a remarkable and critical species. Meredith is joined by Chris Bowser, Education Coordinator for the New York State Department of Environmental Conservation, who shares his extensive knowledge on these unique creatures. Listeners will learn about the eel's life cycle, unique adaptations, and the significant threats they face, including habitat disruption and climate change. The episode also touches on the cultural and nutritional importance of eels, and how ongoing conservation efforts aim to safeguard their future. This is the first part of a two-part series, with more intriguing details and actionable ways to help eels to be discussed in the next episode.",
+    "species": {
+      "commonName": "American Eel",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "disruption and climate change. The episode also touches on the cultural and nutritional importance of eels, and how ongoing conservation efforts aim to safeguard their future. This is the first part of a two-part series, with more intriguing details and actionable ways to help eels to be discussed in the next episode.",
+      "specialPower": "",
+      "image": "american-eel.png",
+      "imageAlt": "American Eel featured in episode 13"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272",
+        "url": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuae029/8108272"
+      },
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "fun facts",
+      "endangered",
+      "fish",
+      "river"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-american-eel-chris-bowser-pt1-7xx59"
+  },
+  {
+    "id": "ep-12",
+    "slug": "midseason-recap",
+    "title": "Midseason Recap",
+    "subtitle": "Reflecting on Rare Species",
+    "episodeNumber": 12,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of 'Rarefied,' host Meredith Meeker revisits the past 14 episodes to reflect on the conservation efforts for some endangered and imperiled species across North America. Starting with the central theme of habitat loss and delving into issues like diseases, pests, recreation, and climate change, the episode intertwines powerful success stories and actionable steps for conservation. Guests such as Andrea Gielens, Nina Hunt, and William Halliday provide insights on species like the Oregon Spotted Frog, Black Ash, and beluga whales. Community science and individual actions are highlighted as vital tools in making conservation a tangible effort. The episode wraps up with fascinating fun facts, from the unique adaptations of the Spotted Gar to the lifecycle of the rusty patch bumblebee, to stir interest and hope for the future.",
+    "species": {
+      "commonName": "Midseason Recap",
+      "scientificName": "",
+      "status": "Extinct",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "loss and delving into issues like diseases, pests, recreation, and climate change, the episode intertwines powerful success stories and actionable steps for conservation. Guests such as Andrea Gielens, Nina Hunt, and William Halliday provide insights on species like the Oregon Spotted Frog, Black Ash, and beluga whales. Community science and individual actions are highlighted as vital tools in making conservation a tangible effort. The episode wraps up with fascinating fun facts, from the unique adaptations of the Spotted Gar to the lifecycle of the rusty patch bumblebee, to stir interest and hope for the future.",
+      "specialPower": "",
+      "image": "midseason-recap.jpg",
+      "imageAlt": "Midseason Recap featured in episode 12"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "summary",
+      "threats",
+      "conservation success",
+      "call to action",
+      "fun facts"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-midseason-recap"
+  },
+  {
+    "id": "ep-11",
+    "slug": "bogbean-buckmoth",
+    "title": "Bogbean Buckmoth",
+    "subtitle": "Bold and Beautiful",
+    "episodeNumber": 11,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of 'Rarefied,' host Meredith Meeker introduces listeners to the Bogbean Buck Moth, an endangered, brightly patterned, daytime-flying moth reliant on wetland habitats. With guest Peter Soroye, the Biodiversity Outreach Coordinator at Wildlife Conservation Society Canada, the podcast delves into the moth's distinct characteristics, specialized habitat needs, and the conservation challenges it faces due to habitat loss and environmental changes. Peter discusses the important role of Key Biodiversity Areas (KBAs) and collective conservation efforts in Canada, emphasizing community science and the need for continued stewardship. The episode bridges scientific insight and practical conservation efforts, illustrating the importance of protecting even the smallest and rarest species to maintain ecological integrity.",
+    "species": {
+      "commonName": "Bogbean Buckmoth",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "needs, and the conservation challenges it faces due to habitat loss and environmental changes. Peter discusses the important role of Key Biodiversity Areas (KBAs) and collective conservation efforts in Canada, emphasizing community science and the need for continued stewardship. The episode bridges scientific insight and practical conservation efforts, illustrating the importance of protecting even the smallest and rarest species to maintain ecological integrity.",
+      "specialPower": "",
+      "image": "bogbean-buckmoth.png",
+      "imageAlt": "Bogbean Buckmoth featured in episode 11"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "endangered",
+      "pollinators",
+      "insects",
+      "wetland",
+      "kba"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-peter-soroye-bogbean-buckmoth"
+  },
+  {
+    "id": "ep-10",
+    "slug": "little-brown-bat",
+    "title": "Little Brown Bat",
+    "subtitle": "Tiny Sky Shark",
+    "episodeNumber": 10,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of 'Rarefied', host Meredith Meeker takes listeners on an adventure into the nocturnal world, featuring the little brown bat, one of North America's endangered bat species. The discussion includes detailed descriptions of the bat's physical characteristics, behaviors, and the severe threats they face, like White Nose Syndrome. Meeker shares personal experiences with bats and highlights conservation efforts alongside guest Dr. Christina Davy, an associate professor at Carleton University. Davy provides insights into bat research, challenges faced in their conservation, and actionable steps people can take to protect these essential aerial insectivores. The episode wraps up with hopeful notes on future conservation actions and their impact.",
+    "species": {
+      "commonName": "Little Brown Bat",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "",
+      "specialPower": "",
+      "image": "little-brown-bat.png",
+      "imageAlt": "Little Brown Bat featured in episode 10"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "mammal",
+      "urban species"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-christina-davy-little-brown-bat"
+  },
+  {
+    "id": "ep-9",
+    "slug": "oregon-spotted-frog",
+    "title": "Oregon Spotted Frog",
+    "subtitle": "Knock Knock... who's there",
+    "episodeNumber": 9,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of 'Rarefied,' host Meredith Meeker explores the conservation efforts surrounding the Oregon Spotted Frog, an amphibian facing critical endangerment. The discussion delves into the frog’s habitat, threats they face, and the innovative measures being taken to protect and restore their populations. Wildlife biologist Andrea Gielens shares insights from her extensive work with the species, highlighting the complexities of captive breeding, habitat restoration, and the challenges posed by invasive species. Through fascinating anecdotes and scientific explanations, the episode underscores the importance of preserving biodiversity and the intricate ecological role of the Oregon Spotted Frog.",
+    "species": {
+      "commonName": "Oregon Spotted Frog",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "restoration, and the challenges posed by invasive species. Through fascinating anecdotes and scientific explanations, the episode underscores the importance of preserving biodiversity and the intricate ecological role of the Oregon Spotted Frog.",
+      "specialPower": "",
+      "image": "oregon-spotted-frog.png",
+      "imageAlt": "Oregon Spotted Frog featured in episode 9"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "amphibian",
+      "captive breeding program",
+      "british colombia",
+      "west coast",
+      "wetland"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-andrea-gielens-oregon-spotted-frog"
+  },
+  {
+    "id": "ep-8",
+    "slug": "rusty",
+    "title": "Rusty",
+    "subtitle": "Patched Bumble Bee: An Abstract Artist",
+    "episodeNumber": 8,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of Rarefied, host Meredith Meeker explores the precarious situation of the rusty patch bumblebee. Meeker is joined by Elaine Evans, an Extension Educator and Researcher at the University of Minnesota, and Mary Powley, a PhD student in the Native Bee Lab at the same university. Together, they discuss the unique characteristics, habitats, and life cycles of the rusty patch bumblebee. They delve into the factors causing its decline, including disease, habitat loss, and climate change, and highlight ongoing research and community science efforts to help save the species. Through engaging anecdotes and detailed explanations, the episode promotes awareness and conservation actions that individuals can take to support these essential pollinators.",
+    "species": {
+      "commonName": "Rusty",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "loss, and climate change, and highlight ongoing research and community science efforts to help save the species. Through engaging anecdotes and detailed explanations, the episode promotes awareness and conservation actions that individuals can take to support these essential pollinators.",
+      "specialPower": "",
+      "image": "rusty.png",
+      "imageAlt": "Rusty featured in episode 8"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "pollinators",
+      "insects",
+      "community science"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-evans-powely-rusty-patched-bumble-bee"
+  },
+  {
+    "id": "ep-7",
+    "slug": "beluga-whale",
+    "title": "Beluga Whale",
+    "subtitle": "Canaries of the sea",
+    "episodeNumber": 7,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "On this episode of Rarified listeners are introduced to the beluga whale. Renowned for its unique vocalizations and smiling visage, the beluga whale inhabits the Arctic and sub-Arctic waters. With conservation scientist William Halliday, the podcast dives into the life of belugas, exploring their behaviors, unique adaptations, and the threats they face, such as climate change and increased human activity in the Arctic. They discuss conservation efforts, traditional ecological knowledge from Indigenous communities, and how studies like acoustic monitoring and tagging help understand and protect these 'canaries of the sea.'",
+    "species": {
+      "commonName": "Beluga Whale",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "",
+      "specialPower": "",
+      "image": "beluga-whale.png",
+      "imageAlt": "Beluga Whale featured in episode 7"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "arctic",
+      "mammal",
+      "marine",
+      "noise pollution"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-william-halliday-beluga-whale"
+  },
+  {
+    "id": "ep-6",
+    "slug": "black-ash",
+    "title": "Black Ash",
+    "subtitle": "An Elusive Tree",
+    "episodeNumber": 6,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of Rarefied, host Meredith Meeker explores the fascinating world of the black ash tree and its conservation challenges. Featuring guests Nina Hunt and Heather Zurbrigg from the Forest Gene Conservation Association (FGCA), the discussion covers the tree's ecological and cultural significance, particularly its role in wetlands and its connection to Indigenous communities. The episode delves into the impact of the invasive emerald ash borer, efforts to identify and propagate resistant trees, and collaborations with various research, government, and Indigenous organizations. Listeners are encouraged to participate in conservation efforts through citizen science platforms like iNaturalist and TreeSnap. The episode highlights the importance of preserving genetic diversity and fostering partnerships in the fight to save this keystone species.",
+    "species": {
+      "commonName": "Black Ash",
+      "scientificName": "",
+      "status": "Endangered",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "02:02 Why Black Ash is Endangered",
+      "specialPower": "",
+      "image": "black-ash.png",
+      "imageAlt": "Black Ash featured in episode 6"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "ontario",
+      "endangered",
+      "plants",
+      "trees",
+      "pest control",
+      "genetics"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-fgcablack-ash"
+  },
+  {
+    "id": "ep-5",
+    "slug": "redside-dace",
+    "title": "Redside Dace",
+    "subtitle": "Canada's jumping minnow",
+    "episodeNumber": 5,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of the Rarefied podcast, host Meredith Meeker explores the conservation efforts for the redside dace, a critically endangered fish found in the Greater Toronto Area (GTA). Meeker interviews Kat Lucas, outreach and communications coordinator at Ontario Streams, who explains the threats facing this unique minnow and the initiatives in place to preserve its habitat. The discussion highlights the importance of clean, clear, and cool water for the redside dace's survival, as well as the role of environmental education and community involvement in conservation. Lucas shares success stories and practical tips on how individuals can contribute to protecting this species, emphasizing the ecological and personal significance of healthy freshwater ecosystems.https://www.ontariostreams.on.ca/",
+    "species": {
+      "commonName": "Redside Dace",
+      "scientificName": "",
+      "status": "Endangered",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "08:26 Conservation Strategies and Success Stories",
+      "specialPower": "",
+      "image": "redside-dace.png",
+      "imageAlt": "Redside Dace featured in episode 5"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "ontario",
+      "endangered",
+      "fish",
+      "urban species"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-kat-lucas-redside-dace"
+  },
+  {
+    "id": "ep-4",
+    "slug": "piping-plover",
+    "title": "Piping Plover",
+    "subtitle": "Super Power Confidence",
+    "episodeNumber": 4,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of 'Rarefied,' host Meredith Meeker takes listeners on a journey to the beach to learn about the elusive and endangered piping plover. Despite its vulnerability, this small shorebird wins hearts with its charming appearance and behaviors. Meredith is joined by Sydney Shepherd, the coordinator of the Ontario piping plover conservation program with Birds Canada. Sydney shares insights into the dedicated conservation efforts, including banding, monitoring, and habitat protection, that aim to secure the future of this species. They discuss the bird's breeding habits, the threats it faces, and how volunteers and the public can aid in its preservation. This episode not only highlights the scientific and hands-on efforts involved in saving the piping plover but also emphasizes the broader importance of community involvement and ecological awareness.Report Piping Plover Sightings to: ontarioplovers@birdscanada.org Sign-up for the Ontario Piping Plover Newsletter and to become a nest monitor volunteer https://mailchi.mp/63b4c87c5923/piping-plover-volunteers-and-newsletter",
+    "species": {
+      "commonName": "Piping Plover",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "protection, that aim to secure the future of this species. They discuss the bird's breeding habits, the threats it faces, and how volunteers and the public can aid in its preservation. This episode not only highlights the scientific and hands-on efforts involved in saving the piping plover but also emphasizes the broader importance of community involvement and ecological awareness.",
+      "specialPower": "",
+      "image": "piping-plover.png",
+      "imageAlt": "Piping Plover featured in episode 4"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "ontario",
+      "birds",
+      "shorebird",
+      "community science",
+      "endangered"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-sydney-shepherd-piping-plover"
+  },
+  {
+    "id": "ep-3",
+    "slug": "blandings-turtle",
+    "title": "Blanding’s Turtle",
+    "subtitle": "A Sunny Janitor",
+    "episodeNumber": 3,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "Join host Meredith Meeker on Rarefied Podcast as she embarks on a journey into Ontario's wetlands to spotlight the Blanding's turtle. This episode details their unique features, the threats they face, and the conservation efforts led by experts like Tanisha Agarwal (she/her) from the Toronto Zoo's Adopt-a-Pond program. Learn about the zoo's headstarting initiative, ongoing research, and the critical roles these vibrant turtles play in their ecosystem. Discover how zoos contribute to wildlife conservation and engage with community science projects to protect and preserve vulnerable species.",
+    "species": {
+      "commonName": "Blanding’s Turtle",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "and Care",
+      "habitat": "",
+      "specialPower": "",
+      "image": "blandings-turtle.png",
+      "imageAlt": "Blanding’s Turtle featured in episode 3"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "ontario",
+      "reptile",
+      "turtle",
+      "wetland",
+      "headstarting"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-tanisha-agarwal-blandings-turtle"
+  },
+  {
+    "id": "ep-2",
+    "slug": "wolverine",
+    "title": "Wolverine",
+    "subtitle": "Marvelous mammal",
+    "episodeNumber": 2,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of Rarefied, we delve into the world of one of nature's most elusive and powerful creatures, the Wolverine. Joined by Matthew Scrafford, a conservation scientist with Wildlife Conservation Society Canada, the episode explores Matthew’s work with Wolverines. The conversation covers the Wolverine's behavior, distribution, and the challenges they face, including climate change and industrial development. Matthew shares insights from his extensive fieldwork and research, detailing methods such as radio telemetry, camera trapping, and aerial surveys. He also discusses the importance of public involvement in conservation efforts and shares personal anecdotes from his work. Listeners are encouraged to appreciate the Wolverine's story and the need to protect their habitats.",
+    "species": {
+      "commonName": "Wolverine",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "and Distribution",
+      "specialPower": "",
+      "image": "wolverine.png",
+      "imageAlt": "Wolverine featured in episode 2"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "ontario",
+      "boreal forest",
+      "mammal"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-matthew-scrafford-wolverine"
+  },
+  {
+    "id": "ep-1",
+    "slug": "wood-poppy",
+    "title": "Wood Poppy",
+    "subtitle": "Flowers of hope",
+    "episodeNumber": 1,
+    "season": 1,
+    "publishedAt": "2025-12-20",
+    "duration": 0,
+    "description": "In this episode of the Rarefied podcast, host interview Dr. Jenny McCune, an associate professor at the University of Lethbridge, to discuss her research on rare and endangered plant species in Canada. The focus is on the wood poppy, a bright yellow flower native to the Carolinian forest of Southwestern Ontario. Dr. McCune delves into its characteristics, habitat, genetic distinctions, and the challenges it faces due to habitat loss. She also highlights her lab's efforts in conservation translocations to establish new populations on protected lands, aiming to ensure the species' survival. This episode emphasizes the importance of botanical conservation and the complexities involved in saving endangered plants.",
+    "species": {
+      "commonName": "Wood Poppy",
+      "scientificName": "",
+      "status": "Unknown",
+      "weight": "",
+      "length": "",
+      "diet": "",
+      "habitat": "loss. She also highlights her lab's efforts in conservation translocations to establish new populations on protected lands, aiming to ensure the species' survival. This episode emphasizes the importance of botanical conservation and the complexities involved in saving endangered plants.",
+      "specialPower": "",
+      "image": "wood-poppy.png",
+      "imageAlt": "Wood Poppy featured in episode 1"
+    },
+    "audioUrl": "",
+    "spotifyUrl": "",
+    "spotifyEmbedId": "",
+    "applePodcastsUrl": "",
+    "guest": null,
+    "chapters": [],
+    "resources": [
+      {
+        "title": "Apple Podcasts",
+        "url": "https://www.apple.com/apple-podcasts"
+      }
+    ],
+    "tags": [
+      "season 1",
+      "ontario",
+      "plants",
+      "translocation",
+      "carolinian forest"
+    ],
+    "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-jenny-mccune-wood-poppy"
+  }
+]

@@ -1,0 +1,150 @@
+{
+  "id": "ep-18",
+  "slug": "chimney-swift",
+  "title": "Chimney Swift",
+  "subtitle": "Your Good Neighbor",
+  "episodeNumber": 18,
+  "season": 1,
+  "publishedAt": "2025-04-10",
+  "duration": 3375,
+  "description": "In this episode of Rarefied, host Meredith Meeker spotlights the Chimney Swift, a bird known for its aerial acrobatics and unique nesting habits. Despite their global security, Chimney Swifts face vulnerability and imperilment across Canada. Meredith is joined by experts Gabriel Evans Cook, Ontario's aerial insectivore biologist, and Gwendolyn Clark, coordinator of the Chimney Swift Chimney Restoration Fund at Birds Canada. They discuss the Chimney Swift's adaptation to urban environments, the threats they face, and the initiatives in place to conserve their habitat. This episode emphasizes the integral role of citizen science and community engagement in species conservation.www.birdscanada.org/about-us/funding-opportunities/chimney-swift-fundwww.birdscanada.org/bird-science/swiftwatchhttps://birdgardens.ca/planning-your-garden/00:00 Introduction to Rarefied Podcast00:34 Meet the Chimney Swift00:55 Personal Birding Journey01:45 Chimney Swift Conservation Efforts",
+  "species": {
+    "commonName": "Chimney Swift",
+    "scientificName": "Chaetura pelagica",
+    "status": "Threatened",
+    "weight": "",
+    "length": "Wingspan: 30 cm",
+    "diet": "",
+    "habitat": "Urban Settlements and Old Growth Forests",
+    "specialPower": "Acrobatics",
+    "image": "chimney-swift.png",
+    "imageAlt": "Chimney Swift featured in episode 18"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16949512-chimney-swift-your-good-neighbor.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/0t79ZfCAjV47rqUcK6XE3B",
+  "spotifyEmbedId": "0t79ZfCAjV47rqUcK6XE3B",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:34",
+      "timeInSeconds": 34,
+      "title": "Meet the Chimney Swift"
+    },
+    {
+      "time": "00:55",
+      "timeInSeconds": 55,
+      "title": "Personal Birding Journey"
+    },
+    {
+      "time": "01:45",
+      "timeInSeconds": 105,
+      "title": "Chimney Swift Conservation Efforts"
+    },
+    {
+      "time": "01:56",
+      "timeInSeconds": 116,
+      "title": "Introduction of Guests"
+    },
+    {
+      "time": "03:55",
+      "timeInSeconds": 235,
+      "title": "Chimney Swift Characteristics"
+    },
+    {
+      "time": "05:28",
+      "timeInSeconds": 328,
+      "title": "Chimney Swift Habitat and Adaptation"
+    },
+    {
+      "time": "08:43",
+      "timeInSeconds": 523,
+      "title": "Chimney Swift Restoration Fund"
+    },
+    {
+      "time": "14:34",
+      "timeInSeconds": 874,
+      "title": "Threats to Chimney Swifts"
+    },
+    {
+      "time": "17:55",
+      "timeInSeconds": 1075,
+      "title": "Conservation Actions and Citizen Science"
+    },
+    {
+      "time": "22:20",
+      "timeInSeconds": 1340,
+      "title": "How You Can Help"
+    },
+    {
+      "time": "26:53",
+      "timeInSeconds": 1613,
+      "title": "Gardening for Birds"
+    },
+    {
+      "time": "28:33",
+      "timeInSeconds": 1713,
+      "title": "A Different Birding Season"
+    },
+    {
+      "time": "28:47",
+      "timeInSeconds": 1727,
+      "title": "The Importance of Conservation"
+    },
+    {
+      "time": "30:18",
+      "timeInSeconds": 1818,
+      "title": "Why Care About Chimney Swifts?"
+    },
+    {
+      "time": "31:09",
+      "timeInSeconds": 1869,
+      "title": "Urban Wildlife and Human Connection"
+    },
+    {
+      "time": "36:13",
+      "timeInSeconds": 2173,
+      "title": "Conservation Efforts and Success Stories"
+    },
+    {
+      "time": "41:20",
+      "timeInSeconds": 2480,
+      "title": "Fieldwork Adventures and Fun Stories"
+    },
+    {
+      "time": "44:03",
+      "timeInSeconds": 2643,
+      "title": "Chimney Swifts&apos; Unique Traits and Behaviors"
+    },
+    {
+      "time": "48:19",
+      "timeInSeconds": 2899,
+      "title": "Final Thoughts and Surprising Facts"
+    },
+    {
+      "time": "53:10",
+      "timeInSeconds": 3190,
+      "title": "Conclusion and Call to Action"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Planning Your Garden",
+      "url": "https://birdgardens.ca/planning-your-garden/"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "threatened",
+    "birds",
+    "aerial insectivore",
+    "urban species"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-chimney-swift-birds-canada",
+  "_rssGuid": "Buzzsprout-16949512"
+}

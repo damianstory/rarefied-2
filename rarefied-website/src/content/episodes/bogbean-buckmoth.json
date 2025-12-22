@@ -1,0 +1,111 @@
+{
+  "id": "ep-14",
+  "slug": "bogbean-buckmoth",
+  "title": "Bogbean Buckmoth",
+  "subtitle": "Bold and Beautiful",
+  "episodeNumber": 14,
+  "season": 1,
+  "publishedAt": "2025-03-13",
+  "duration": 2852,
+  "description": "In this episode of 'Rarefied,' host Meredith Meeker introduces listeners to the Bogbean Buck Moth, an endangered, brightly patterned, daytime-flying moth reliant on wetland habitats. With guest Peter Soroye, the Biodiversity Outreach Coordinator at Wildlife Conservation Society Canada, the podcast delves into the moth's distinct characteristics, specialized habitat needs, and the conservation challenges it faces due to habitat loss and environmental changes. Peter discusses the important role of Key Biodiversity Areas (KBAs) and collective conservation efforts in Canada, emphasizing community science and the need for continued stewardship. The episode bridges scientific insight and practical conservation efforts, illustrating the importance of protecting even the smallest and rarest species to maintain ecological integrity. 00:00 Introduction to Rarefied Podcast 00:33 Meet the Bogbean Buck Moth 01:06 Special Characteristics and Habitat 08:56 Challenges and",
+  "species": {
+    "commonName": "Bogbean Buckmoth",
+    "scientificName": "Hemileuca sp.",
+    "status": "Endangered",
+    "weight": "",
+    "length": "Wingspan: 30 mm",
+    "diet": "Host plant: Bogbean",
+    "habitat": "Open Fens",
+    "specialPower": "Defying Stereotypes",
+    "image": "bogbean-buckmoth.png",
+    "imageAlt": "Bogbean Buckmoth featured in episode 14"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16781720-bogbean-buckmoth-bold-and-beautiful.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/697AHPAO6Z8mTGM3r2yoQc",
+  "spotifyEmbedId": "697AHPAO6Z8mTGM3r2yoQc",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:33",
+      "timeInSeconds": 33,
+      "title": "Meet the Bogbean Buck Moth"
+    },
+    {
+      "time": "01:06",
+      "timeInSeconds": 66,
+      "title": "Special Characteristics and Habitat"
+    },
+    {
+      "time": "08:56",
+      "timeInSeconds": 536,
+      "title": "Challenges and Threats"
+    },
+    {
+      "time": "15:59",
+      "timeInSeconds": 959,
+      "title": "Conservation Efforts and Community Science"
+    },
+    {
+      "time": "19:06",
+      "timeInSeconds": 1146,
+      "title": "Key Biodiversity Areas (KBAs)"
+    },
+    {
+      "time": "24:54",
+      "timeInSeconds": 1494,
+      "title": "Scientific Rigor in KBA Methodology"
+    },
+    {
+      "time": "26:25",
+      "timeInSeconds": 1585,
+      "title": "The Importance of the Bog Bean Buck Moth"
+    },
+    {
+      "time": "28:35",
+      "timeInSeconds": 1715,
+      "title": "The Rivet Analogy and Biodiversity"
+    },
+    {
+      "time": "31:55",
+      "timeInSeconds": 1915,
+      "title": "Balancing Science and Conservation"
+    },
+    {
+      "time": "41:02",
+      "timeInSeconds": 2462,
+      "title": "Field Memories and Motivation"
+    },
+    {
+      "time": "44:24",
+      "timeInSeconds": 2664,
+      "title": "Hope for Conservation"
+    },
+    {
+      "time": "46:39",
+      "timeInSeconds": 2799,
+      "title": "Conclusion and Farewell"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "endangered",
+    "pollinators",
+    "insects",
+    "wetland",
+    "kba"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-peter-soroye-bogbean-buckmoth",
+  "_rssGuid": "Buzzsprout-16781720"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ep-15",
+  "slug": "chimney-swift",
+  "title": "Chimney Swift",
+  "subtitle": "Your Good Neighbor",
+  "episodeNumber": 15,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of Rarefied, host Meredith Meeker spotlights the Chimney Swift, a bird known for its aerial acrobatics and unique nesting habits. Despite their global security, Chimney Swifts face vulnerability and imperilment across Canada. Meredith is joined by experts Gabriel Evans Cook, Ontario's aerial insectivore biologist, and Gwendolyn Clark, coordinator of the Chimney Swift Chimney Restoration Fund at Birds Canada. They discuss the Chimney Swift's adaptation to urban environments, the threats they face, and the initiatives in place to conserve their habitat. This episode emphasizes the integral role of citizen science and community engagement in species conservation.",
+  "species": {
+    "commonName": "Chimney Swift",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "and Adaptation",
+    "specialPower": "",
+    "image": "chimney-swift.png",
+    "imageAlt": "Chimney Swift featured in episode 15"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "threatened",
+    "birds",
+    "aerial insectivore",
+    "urban species"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-chimney-swift-birds-canada"
+}

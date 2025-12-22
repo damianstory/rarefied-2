@@ -1,0 +1,45 @@
+{
+  "id": "ep-6",
+  "slug": "black-ash",
+  "title": "Black Ash",
+  "subtitle": "An Elusive Tree",
+  "episodeNumber": 6,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of Rarefied, host Meredith Meeker explores the fascinating world of the black ash tree and its conservation challenges. Featuring guests Nina Hunt and Heather Zurbrigg from the Forest Gene Conservation Association (FGCA), the discussion covers the tree's ecological and cultural significance, particularly its role in wetlands and its connection to Indigenous communities. The episode delves into the impact of the invasive emerald ash borer, efforts to identify and propagate resistant trees, and collaborations with various research, government, and Indigenous organizations. Listeners are encouraged to participate in conservation efforts through citizen science platforms like iNaturalist and TreeSnap. The episode highlights the importance of preserving genetic diversity and fostering partnerships in the fight to save this keystone species.",
+  "species": {
+    "commonName": "Black Ash",
+    "scientificName": "",
+    "status": "Endangered",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "02:02 Why Black Ash is Endangered",
+    "specialPower": "",
+    "image": "black-ash.png",
+    "imageAlt": "Black Ash featured in episode 6"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "endangered",
+    "plants",
+    "trees",
+    "pest control",
+    "genetics"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-fgcablack-ash"
+}

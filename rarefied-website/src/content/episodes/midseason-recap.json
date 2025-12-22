@@ -1,0 +1,110 @@
+{
+  "id": "ep-15",
+  "slug": "midseason-recap",
+  "title": "Midseason Recap",
+  "subtitle": "Reflecting on Rare Species",
+  "episodeNumber": 15,
+  "season": 1,
+  "publishedAt": "2025-03-20",
+  "duration": 1831,
+  "description": "In this episode of 'Rarefied,' host Meredith Meeker revisits the past 14 episodes to reflect on the conservation efforts for some endangered and imperiled species across North America. Starting with the central theme of habitat loss and delving into issues like diseases, pests, recreation, and climate change, the episode intertwines powerful success stories and actionable steps for conservation. Guests such as Andrea Gielens, Nina Hunt, and William Halliday provide insights on species like the Oregon Spotted Frog, Black Ash, and beluga whales. Community science and individual actions are highlighted as vital tools in making conservation a tangible effort. The episode wraps up with fascinating fun facts, from the unique adaptations of the Spotted Gar to the lifecycle of the rusty patch bumblebee, to stir interest and hope for the future.00:00 Introduction: A Legacy in Every Stream and Tree00:23 Welcome to Rarefied: Exploring Imperiled Species00:46 Revisiting Past",
+  "species": {
+    "commonName": "Midseason Recap",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "",
+    "specialPower": "",
+    "image": "placeholder.jpg",
+    "imageAlt": "Midseason Recap featured in episode 15"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16830664-midseason-recap-reflecting-on-rare-species.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/0OZqkXnEmqGB2nzi6Kn8Qp",
+  "spotifyEmbedId": "0OZqkXnEmqGB2nzi6Kn8Qp",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "the central",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction: A Legacy in Every Stream and Tree"
+    },
+    {
+      "time": "00:23",
+      "timeInSeconds": 23,
+      "title": "Welcome to Rarefied: Exploring Imperiled Species"
+    },
+    {
+      "time": "00:46",
+      "timeInSeconds": 46,
+      "title": "Revisiting Past Episodes: Fascinating Species and Common Threats"
+    },
+    {
+      "time": "01:25",
+      "timeInSeconds": 85,
+      "title": "Understanding Species Extinction and Habitat Loss"
+    },
+    {
+      "time": "03:25",
+      "timeInSeconds": 205,
+      "title": "Impact of Diseases and Pests on Wildlife"
+    },
+    {
+      "time": "04:51",
+      "timeInSeconds": 291,
+      "title": "Recreation and Its Effects on Wildlife"
+    },
+    {
+      "time": "06:35",
+      "timeInSeconds": 395,
+      "title": "Climate Change: Uncertain Future for Many Species"
+    },
+    {
+      "time": "07:49",
+      "timeInSeconds": 469,
+      "title": "Repairing Our Relationship with Nature"
+    },
+    {
+      "time": "8:27",
+      "timeInSeconds": 507,
+      "title": "Sustainable Recreation"
+    },
+    {
+      "time": "09:41",
+      "timeInSeconds": 581,
+      "title": "Community Science: Making a Difference Together"
+    },
+    {
+      "time": "15:13",
+      "timeInSeconds": 913,
+      "title": "Reducing your Footprint"
+    },
+    {
+      "time": "18:06",
+      "timeInSeconds": 1086,
+      "title": "Success Stories: Conservation Efforts Paying Off"
+    },
+    {
+      "time": "24:02",
+      "timeInSeconds": 1442,
+      "title": "Fun Facts and Final Thoughts"
+    },
+    {
+      "time": "29:35",
+      "timeInSeconds": 1775,
+      "title": "Conclusion: Every Species Has a Story"
+    }
+  ],
+  "resources": [],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-16830664"
+}

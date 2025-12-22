@@ -1,0 +1,129 @@
+{
+  "id": "ep-4",
+  "slug": "wood-poppy",
+  "title": "Wood Poppy",
+  "subtitle": "Flowers of Hope",
+  "episodeNumber": 4,
+  "season": 1,
+  "publishedAt": "2024-12-12",
+  "duration": 3127,
+  "description": "In this episode of the Rarefied podcast, host interview Dr. Jenny McCune, an associate professor at the University of Lethbridge, to discuss her research on rare and endangered plant species in Canada. The focus is on the wood poppy, a bright yellow flower native to the Carolinian forest of Southwestern Ontario. Dr. McCune delves into its characteristics, habitat, genetic distinctions, and the challenges it faces due to habitat loss. She also highlights her lab's efforts in conservation translocations to establish new populations on protected lands, aiming to ensure the species' survival. This episode emphasizes the importance of botanical conservation and the complexities involved in saving endangered plants.00:00 Introduction to the Rarefied Podcast00:35 Exploring the Wood Poppy01:34 Wood Poppy Characteristics and Habitat04:02 Seed Dispersal and Threats10:23 Conservation Efforts and Research12:49 Genetic Studies and Translocation23:27 Public Awareness and Gene",
+  "species": {
+    "commonName": "Wood Poppy",
+    "scientificName": "Stylophorum diphyllum",
+    "status": "Endangered",
+    "weight": "Life span: 20 years",
+    "length": "40 cm",
+    "diet": "Seed dispersal: Ants",
+    "habitat": "Carolinian Forests",
+    "specialPower": "",
+    "image": "wood-poppy.jpg",
+    "imageAlt": "Wood Poppy featured in episode 4"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16264873-wood-poppy-flowers-of-hope.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/1Mf1cGf9woAsSXb094sGib",
+  "spotifyEmbedId": "1Mf1cGf9woAsSXb094sGib",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Jenny McCune",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to the Rarefied Podcast"
+    },
+    {
+      "time": "00:35",
+      "timeInSeconds": 35,
+      "title": "Exploring the Wood Poppy"
+    },
+    {
+      "time": "01:34",
+      "timeInSeconds": 94,
+      "title": "Wood Poppy Characteristics and Habitat"
+    },
+    {
+      "time": "04:02",
+      "timeInSeconds": 242,
+      "title": "Seed Dispersal and Threats"
+    },
+    {
+      "time": "10:23",
+      "timeInSeconds": 623,
+      "title": "Conservation Efforts and Research"
+    },
+    {
+      "time": "12:49",
+      "timeInSeconds": 769,
+      "title": "Genetic Studies and Translocation"
+    },
+    {
+      "time": "23:27",
+      "timeInSeconds": 1407,
+      "title": "Public Awareness and Genetic Concerns"
+    },
+    {
+      "time": "26:49",
+      "timeInSeconds": 1609,
+      "title": "Debating Translocation Strategies"
+    },
+    {
+      "time": "28:19",
+      "timeInSeconds": 1699,
+      "title": "Translocation Practices in Different Regions"
+    },
+    {
+      "time": "29:59",
+      "timeInSeconds": 1799,
+      "title": "Challenges and Successes in Plant Translocation"
+    },
+    {
+      "time": "31:14",
+      "timeInSeconds": 1874,
+      "title": "Wood Poppy Translocation Success"
+    },
+    {
+      "time": "35:28",
+      "timeInSeconds": 2128,
+      "title": "Fieldwork and Observations"
+    },
+    {
+      "time": "39:36",
+      "timeInSeconds": 2376,
+      "title": "Community Involvement and Conservation"
+    },
+    {
+      "time": "44:49",
+      "timeInSeconds": 2689,
+      "title": "Personal Journey into Botany"
+    },
+    {
+      "time": "48:59",
+      "timeInSeconds": 2939,
+      "title": "Future of Plant Translocation"
+    },
+    {
+      "time": "51:16",
+      "timeInSeconds": 3076,
+      "title": "Conclusion and Next Episode Preview"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "plants",
+    "translocation",
+    "carolinian forest"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-jenny-mccune-wood-poppy",
+  "_rssGuid": "Buzzsprout-16264873"
+}

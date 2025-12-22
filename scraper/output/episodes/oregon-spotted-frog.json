@@ -1,0 +1,44 @@
+{
+  "id": "ep-9",
+  "slug": "oregon-spotted-frog",
+  "title": "Oregon Spotted Frog",
+  "subtitle": "Knock Knock... who's there",
+  "episodeNumber": 9,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of 'Rarefied,' host Meredith Meeker explores the conservation efforts surrounding the Oregon Spotted Frog, an amphibian facing critical endangerment. The discussion delves into the frog’s habitat, threats they face, and the innovative measures being taken to protect and restore their populations. Wildlife biologist Andrea Gielens shares insights from her extensive work with the species, highlighting the complexities of captive breeding, habitat restoration, and the challenges posed by invasive species. Through fascinating anecdotes and scientific explanations, the episode underscores the importance of preserving biodiversity and the intricate ecological role of the Oregon Spotted Frog.",
+  "species": {
+    "commonName": "Oregon Spotted Frog",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "restoration, and the challenges posed by invasive species. Through fascinating anecdotes and scientific explanations, the episode underscores the importance of preserving biodiversity and the intricate ecological role of the Oregon Spotted Frog.",
+    "specialPower": "",
+    "image": "oregon-spotted-frog.png",
+    "imageAlt": "Oregon Spotted Frog featured in episode 9"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "amphibian",
+    "captive breeding program",
+    "british colombia",
+    "west coast",
+    "wetland"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-andrea-gielens-oregon-spotted-frog"
+}

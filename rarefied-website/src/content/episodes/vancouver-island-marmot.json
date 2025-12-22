@@ -1,0 +1,126 @@
+{
+  "id": "ep-19",
+  "slug": "vancouver-island-marmot",
+  "title": "Vancouver Island Marmot",
+  "subtitle": "Space Travel, Plague, and Nose Boops",
+  "episodeNumber": 19,
+  "season": 1,
+  "publishedAt": "2025-04-17",
+  "duration": 3296,
+  "description": "In this episode of Rarefied with host Meredith Meeker, we explore the inspiring recovery story of the critically imperiled Vancouver Island Marmot. Joining Meredith is Adam Taylor, Executive Director of the Marmot Recovery Foundation, who shares his extensive experience in wildlife conservation. Discussions include the unique biology and habitat of the Vancouver Island Marmot, the efforts and challenges of captive breeding programs, the role of human intervention, and the global significance of preserving biodiversity. This episode sheds light on the perseverance required to save endangered species and emphasizes the importance of conservation efforts.www.marmots.orghttps://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/acv.1244800:00 Introduction to Rarefied Podcast00:33 The Vancouver Island Marmot: A Conservation Success Story01:12 Meet Adam Taylor: Executive Director of the Marmot Recovery Foundation01:51 Understanding the Vancouver Island Marmot06:28 The Uni",
+  "species": {
+    "commonName": "Vancouver Island Marmot",
+    "scientificName": "Marmota vancouverensis",
+    "status": "Endangered",
+    "weight": "",
+    "length": "65-70 cm",
+    "diet": "Herbivore",
+    "habitat": "Mountain Meadows",
+    "specialPower": "Tough as Nails",
+    "image": "vancouver-island-marmot.png",
+    "imageAlt": "Vancouver Island Marmot featured in episode 19"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16992720-vancouver-island-marmot-space-travel-plague-and-nose-boops.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/0W1jQVnlbhk89ndJW7l4nR",
+  "spotifyEmbedId": "0W1jQVnlbhk89ndJW7l4nR",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:33",
+      "timeInSeconds": 33,
+      "title": "The Vancouver Island Marmot: A Conservation Success Story"
+    },
+    {
+      "time": "01:12",
+      "timeInSeconds": 72,
+      "title": "Meet Adam Taylor: Executive Director of the Marmot Recovery Foundation"
+    },
+    {
+      "time": "01:51",
+      "timeInSeconds": 111,
+      "title": "Understanding the Vancouver Island Marmot"
+    },
+    {
+      "time": "06:28",
+      "timeInSeconds": 388,
+      "title": "The Unique Habitat of the Vancouver Island Marmot"
+    },
+    {
+      "time": "09:24",
+      "timeInSeconds": 564,
+      "title": "The Social Structure and Colonies of the Vancouver Island Marmot"
+    },
+    {
+      "time": "12:52",
+      "timeInSeconds": 772,
+      "title": "Threats to the Vancouver Island Marmot"
+    },
+    {
+      "time": "19:59",
+      "timeInSeconds": 1199,
+      "title": "The Role of Captive Breeding in Marmot Conservation"
+    },
+    {
+      "time": "27:12",
+      "timeInSeconds": 1632,
+      "title": "Challenges in Marmot Reintroduction"
+    },
+    {
+      "time": "27:52",
+      "timeInSeconds": 1672,
+      "title": "Innovative Strategies for Success"
+    },
+    {
+      "time": "29:59",
+      "timeInSeconds": 1799,
+      "title": "The Importance of Biodiversity"
+    },
+    {
+      "time": "31:26",
+      "timeInSeconds": 1886,
+      "title": "Conservation Success Stories"
+    },
+    {
+      "time": "34:40",
+      "timeInSeconds": 2080,
+      "title": "How You Can Help"
+    },
+    {
+      "time": "37:55",
+      "timeInSeconds": 2275,
+      "title": "Fieldwork and Personal Experiences"
+    },
+    {
+      "time": "42:07",
+      "timeInSeconds": 2527,
+      "title": "Rapid Fire Questions and Fun Facts"
+    },
+    {
+      "time": "52:13",
+      "timeInSeconds": 3133,
+      "title": "Conclusion and Final Thoughts"
+    }
+  ],
+  "resources": [
+    {
+      "title": "acv.12448",
+      "url": "https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/acv.12448"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "mammal",
+    "mountains",
+    "captive breeding program",
+    "rodent",
+    "west coast"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-adam-taylor-vancouver-island-marmot",
+  "_rssGuid": "Buzzsprout-16992720"
+}

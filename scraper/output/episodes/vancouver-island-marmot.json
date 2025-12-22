@@ -1,0 +1,44 @@
+{
+  "id": "ep-16",
+  "slug": "vancouver-island-marmot",
+  "title": "Vancouver Island Marmot",
+  "subtitle": "Space Travel, Plague, and Nose Boops",
+  "episodeNumber": 16,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of Rarefied with host Meredith Meeker, we explore the inspiring recovery story of the critically imperiled Vancouver Island Marmot. Joining Meredith is Adam Taylor, Executive Director of the Marmot Recovery Foundation, who shares his extensive experience in wildlife conservation. Discussions include the unique biology and habitat of the Vancouver Island Marmot, the efforts and challenges of captive breeding programs, the role of human intervention, and the global significance of preserving biodiversity. This episode sheds light on the perseverance required to save endangered species and emphasizes the importance of conservation efforts.",
+  "species": {
+    "commonName": "Vancouver Island Marmot",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "of the Vancouver Island Marmot, the efforts and challenges of captive breeding programs, the role of human intervention, and the global significance of preserving biodiversity. This episode sheds light on the perseverance required to save endangered species and emphasizes the importance of conservation efforts.",
+    "specialPower": "",
+    "image": "vancouver-island-marmot.png",
+    "imageAlt": "Vancouver Island Marmot featured in episode 16"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "mammal",
+    "mountains",
+    "captive breeding program",
+    "rodent",
+    "west coast"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-adam-taylor-vancouver-island-marmot"
+}

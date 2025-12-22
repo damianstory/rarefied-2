@@ -1,0 +1,42 @@
+{
+  "id": "ep-2",
+  "slug": "wolverine",
+  "title": "Wolverine",
+  "subtitle": "Marvelous mammal",
+  "episodeNumber": 2,
+  "season": 1,
+  "publishedAt": "2025-12-20",
+  "duration": 0,
+  "description": "In this episode of Rarefied, we delve into the world of one of nature's most elusive and powerful creatures, the Wolverine. Joined by Matthew Scrafford, a conservation scientist with Wildlife Conservation Society Canada, the episode explores Matthew’s work with Wolverines. The conversation covers the Wolverine's behavior, distribution, and the challenges they face, including climate change and industrial development. Matthew shares insights from his extensive fieldwork and research, detailing methods such as radio telemetry, camera trapping, and aerial surveys. He also discusses the importance of public involvement in conservation efforts and shares personal anecdotes from his work. Listeners are encouraged to appreciate the Wolverine's story and the need to protect their habitats.",
+  "species": {
+    "commonName": "Wolverine",
+    "scientificName": "",
+    "status": "Unknown",
+    "weight": "",
+    "length": "",
+    "diet": "",
+    "habitat": "and Distribution",
+    "specialPower": "",
+    "image": "wolverine.png",
+    "imageAlt": "Wolverine featured in episode 2"
+  },
+  "audioUrl": "",
+  "spotifyUrl": "",
+  "spotifyEmbedId": "",
+  "applePodcastsUrl": "",
+  "guest": null,
+  "chapters": [],
+  "resources": [
+    {
+      "title": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts"
+    }
+  ],
+  "tags": [
+    "season 1",
+    "ontario",
+    "boreal forest",
+    "mammal"
+  ],
+  "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-matthew-scrafford-wolverine"
+}

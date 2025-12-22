@@ -1,0 +1,107 @@
+{
+  "id": "ep-11",
+  "slug": "rusty-patched-bumble-bee",
+  "title": "Rusty-Patched Bumble Bee",
+  "subtitle": "An Abstract Artist",
+  "episodeNumber": 11,
+  "season": 1,
+  "publishedAt": "2025-02-20",
+  "duration": 2828,
+  "description": "In this episode of Rarefied, host Meredith Meeker explores the precarious situation of the rusty patch bumblebee. Meeker is joined by Elaine Evans, an Extension Educator and Researcher at the University of Minnesota, and Mary Powley, a PhD student in the Native Bee Lab at the same university. Together, they discuss the unique characteristics, habitats, and life cycles of the rusty patch bumblebee. They delve into the factors causing its decline, including disease, habitat loss, and climate change, and highlight ongoing research and community science efforts to help save the species. Through engaging anecdotes and detailed explanations, the episode promotes awareness and conservation actions that individuals can take to support these essential pollinators.https://www.bumblebeeatlas.org/ https://beelab.umn.edu/rusty-patched-bumble-bee https://www.fws.gov/species/rusty-patched-bumble-bee-bombus-affinis https://resjournals.onlinelibrary.wiley.com/doi/abs/10.1111/icad.12564 00",
+  "species": {
+    "commonName": "Rusty-Patched Bumble Bee",
+    "scientificName": "Bombus affinis",
+    "status": "Endangered",
+    "weight": "",
+    "length": "15-20 mm",
+    "diet": "",
+    "habitat": "Woodland and open meadow",
+    "specialPower": "Tiny Ambassador",
+    "image": "rusty-patched-bumble-bee.png",
+    "imageAlt": "Rusty-Patched Bumble Bee featured in episode 11"
+  },
+  "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16640646-rusty-patched-bumble-bee-an-abstract-artist.mp3",
+  "spotifyUrl": "https://open.spotify.com/episode/3FrsNfKZZ2RfryQtQti7m3",
+  "spotifyEmbedId": "3FrsNfKZZ2RfryQtQti7m3",
+  "applePodcastsUrl": "",
+  "guest": {
+    "name": "Elaine Evans",
+    "title": "",
+    "organization": ""
+  },
+  "chapters": [
+    {
+      "time": "00:00",
+      "timeInSeconds": 0,
+      "title": "Introduction to Rarefied Podcast"
+    },
+    {
+      "time": "00:26",
+      "timeInSeconds": 26,
+      "title": "Meet the Rusty Patch Bumblebee"
+    },
+    {
+      "time": "01:00",
+      "timeInSeconds": 60,
+      "title": "The Decline of the Rusty Patch Bumblebee"
+    },
+    {
+      "time": "02:49",
+      "timeInSeconds": 169,
+      "title": "Identifying the Rusty Patch Bumblebee"
+    },
+    {
+      "time": "07:24",
+      "timeInSeconds": 444,
+      "title": "Habitat and Nesting Behavior"
+    },
+    {
+      "time": "13:40",
+      "timeInSeconds": 820,
+      "title": "Threats and Conservation Challenges"
+    },
+    {
+      "time": "24:24",
+      "timeInSeconds": 1464,
+      "title": "Research and Citizen Science"
+    },
+    {
+      "time": "31:02",
+      "timeInSeconds": 1862,
+      "title": "Personal Stories and Field Memories"
+    },
+    {
+      "time": "40:56",
+      "timeInSeconds": 2456,
+      "title": "Why Care About the Rusty Patch Bumblebee?"
+    },
+    {
+      "time": "45:58",
+      "timeInSeconds": 2758,
+      "title": "Conclusion and Next Episode Teaser"
+    }
+  ],
+  "resources": [
+    {
+      "title": "bumblebeeatlas.org",
+      "url": "https://www.bumblebeeatlas.org/"
+    },
+    {
+      "title": "rusty-patched-bumble-bee",
+      "url": "https://beelab.umn.edu/rusty-patched-bumble-bee"
+    },
+    {
+      "title": "rusty-patched-bumble-bee-bombus-affinis",
+      "url": "https://www.fws.gov/species/rusty-patched-bumble-bee-bombus-affinis"
+    },
+    {
+      "title": "icad.12564",
+      "url": "https://resjournals.onlinelibrary.wiley.com/doi/abs/10.1111/icad.12564"
+    }
+  ],
+  "tags": [
+    "season 1"
+  ],
+  "_sourceUrl": "",
+  "_rssGuid": "Buzzsprout-16640646"
+}
