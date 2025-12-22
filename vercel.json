@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd rarefied-website && npm run build",
-  "outputDirectory": "rarefied-website/.next",
-  "installCommand": "cd rarefied-website && npm install",
-  "framework": "nextjs"
-}
