@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import {
   SpeciesCard,
@@ -111,10 +112,12 @@ export default async function EpisodePage({ params }: EpisodePageProps) {
             )}
 
             {/* Audio Player Section with Chapters */}
-            <EpisodePlayerSection
-              episode={episode}
-              chapters={episode.chapters || []}
-            />
+            <Suspense fallback={<div className="h-24 animate-pulse bg-gray-100 rounded-lg" />}>
+              <EpisodePlayerSection
+                episode={episode}
+                chapters={episode.chapters || []}
+              />
+            </Suspense>
 
             {/* Resources */}
             {episode.resources && episode.resources.length > 0 && (
