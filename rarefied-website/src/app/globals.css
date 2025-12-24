@@ -132,3 +132,39 @@ h1, h2, h3, h4, h5, h6 {
     padding-right: 2rem;
   }
 }
+
+/* Hand-drawn circle animation */
+@keyframes draw-circle {
+  from {
+    stroke-dashoffset: 400;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.hand-drawn-circle {
+  position: relative;
+  display: inline-block;
+}
+
+.hand-drawn-circle svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  overflow: visible;
+}
+
+.hand-drawn-circle svg path {
+  fill: none;
+  stroke: #000000;
+  stroke-width: 2.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 500;
+  stroke-dashoffset: 500;
+  animation: draw-circle 0.8s ease-out forwards;
+  animation-delay: 0.3s;
+}

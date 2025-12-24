@@ -17,7 +17,26 @@ export function HeroSection({ latestEpisode }: HeroSectionProps) {
           {/* Content */}
           <div className="order-2 lg:order-1">
             <p className="text-sm text-[var(--olive)] uppercase tracking-wide font-mono font-semibold">
-              Latest Episode
+              <span className="hand-drawn-circle px-3 py-1">
+                Latest Episode:
+                <svg
+                  width="205"
+                  height="56"
+                  viewBox="0 0 170 48"
+                  xmlns="http://www.w3.org/2000/svg"
+                  style={{ transform: "translate(-50%, -58%) rotate(-2deg)" }}
+                >
+                  <path
+                    d="M 130 10
+                       C 100 5, 60 4, 35 10
+                       C 12 16, 3 24, 5 32
+                       C 8 40, 25 46, 60 46
+                       C 100 46, 145 42, 158 32
+                       C 168 24, 165 14, 150 8
+                       C 135 3, 110 6, 115 12"
+                  />
+                </svg>
+              </span>
             </p>
 
             <h1 className="mt-3 text-4xl lg:text-5xl font-bold text-black leading-tight">
