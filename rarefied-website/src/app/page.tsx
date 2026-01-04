@@ -1,11 +1,10 @@
-import { HeroSection, EpisodeMap, NewsletterSignup } from "@/components/home";
+import { HeroSection, EpisodeMap } from "@/components/home";
 
 export default function HomePage() {
   return (
     <>
       <HeroSection />
       <EpisodeMap />
-      <NewsletterSignup />
     </>
   );
 }

@@ -1,11 +1,9 @@
 "use client";
 
 import { useState, useCallback } from "react";
-import Link from "next/link";
 import { Logo } from "./Logo";
 import { Navigation } from "./Navigation";
 import { MobileMenu, HamburgerButton } from "./MobileMenu";
-import { Button } from "@/components/ui";
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -21,19 +19,11 @@ export function Header() {
           {/* Logo */}
           <Logo />
 
-          {/* Desktop Navigation */}
+          {/* Desktop Navigation - centered */}
           <Navigation className="hidden lg:flex" />
 
-          {/* Desktop Subscribe Button */}
-          <div className="hidden lg:flex items-center gap-4">
-            <Link href="/listen">
-              <Button variant="primary" size="sm">
-                Subscribe
-              </Button>
-            </Link>
-          </div>
-
-          {/* Mobile menu button */}
+          {/* Right side: spacer on desktop to balance logo, hamburger on mobile */}
+          <div className="hidden lg:block w-[120px]" />
           <HamburgerButton
             isOpen={isMobileMenuOpen}
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
