@@ -7,6 +7,7 @@ import {
   Map,
   MapMarker,
   MarkerContent,
+  MarkerTooltip,
   MapPopup,
   MapControls,
 } from "@/components/ui/map";
@@ -75,7 +76,7 @@ function EpisodePopupContent({
   onClose,
 }: {
   location: EpisodeLocation;
-  onClose: () => void;
+  onClose?: () => void;
 }) {
   const episodes = getEpisodesForLocation(location);
   const firstEpisode = episodes[0];
@@ -84,27 +85,29 @@ function EpisodePopupContent({
 
   return (
     <div className="w-[320px] p-0">
-      {/* Close button */}
-      <button
-        onClick={onClose}
-        className="absolute top-2 right-2 z-10 w-6 h-6 flex items-center justify-center rounded-full bg-black/10 hover:bg-black/20 transition-colors"
-        aria-label="Close"
-      >
-        <svg
-          width="12"
-          height="12"
-          viewBox="0 0 12 12"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
+      {/* Close button - only show for mobile tap popup */}
+      {onClose && (
+        <button
+          onClick={onClose}
+          className="absolute top-2 right-2 z-10 w-6 h-6 flex items-center justify-center rounded-full bg-black/10 hover:bg-black/20 transition-colors"
+          aria-label="Close"
         >
-          <path
-            d="M1 1L11 11M1 11L11 1"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-          />
-        </svg>
-      </button>
+          <svg
+            width="12"
+            height="12"
+            viewBox="0 0 12 12"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M1 1L11 11M1 11L11 1"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+            />
+          </svg>
+        </button>
+      )}
 
       <div className="flex gap-4">
         {/* Species image - left side */}
@@ -234,6 +237,13 @@ export function EpisodeMap() {
                     }
                   />
                 </MarkerContent>
+                {/* Desktop hover tooltip */}
+                <MarkerTooltip
+                  className="!p-4 !bg-white !border-0 !shadow-xl rounded-xl"
+                  offset={24}
+                >
+                  <EpisodePopupContent location={location} />
+                </MarkerTooltip>
               </MapMarker>
             ))}
 

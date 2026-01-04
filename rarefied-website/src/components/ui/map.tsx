@@ -423,11 +423,16 @@ function MarkerTooltip({
   const container = useMemo(() => document.createElement("div"), []);
   const prevTooltipOptions = useRef(popupOptions);
 
+  // Track hover state for both marker and tooltip
+  const isOverMarkerRef = useRef(false);
+  const isOverTooltipRef = useRef(false);
+  const closeTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
   const tooltip = useMemo(() => {
     const tooltipInstance = new MapLibreGL.Popup({
       offset: 16,
       ...popupOptions,
-      closeOnClick: true,
+      closeOnClick: false, // Changed to false - we handle closing manually
       closeButton: false,
     }).setMaxWidth("none");
 
@@ -440,17 +445,61 @@ function MarkerTooltip({
 
     tooltip.setDOMContent(container);
 
-    const handleMouseEnter = () => {
+    // Smart close: only close when mouse has left BOTH marker and tooltip
+    const scheduleClose = () => {
+      if (closeTimeoutRef.current) {
+        clearTimeout(closeTimeoutRef.current);
+      }
+      closeTimeoutRef.current = setTimeout(() => {
+        if (!isOverMarkerRef.current && !isOverTooltipRef.current) {
+          tooltip.remove();
+        }
+      }, 150); // 150ms delay allows smooth mouse movement
+    };
+
+    // Marker event handlers
+    const handleMarkerEnter = () => {
+      isOverMarkerRef.current = true;
+      if (closeTimeoutRef.current) {
+        clearTimeout(closeTimeoutRef.current);
+      }
       tooltip.setLngLat(marker.getLngLat()).addTo(map);
     };
-    const handleMouseLeave = () => tooltip.remove();
 
-    marker.getElement()?.addEventListener("mouseenter", handleMouseEnter);
-    marker.getElement()?.addEventListener("mouseleave", handleMouseLeave);
+    const handleMarkerLeave = () => {
+      isOverMarkerRef.current = false;
+      scheduleClose();
+    };
+
+    // Tooltip container event handlers
+    const handleTooltipEnter = () => {
+      isOverTooltipRef.current = true;
+      if (closeTimeoutRef.current) {
+        clearTimeout(closeTimeoutRef.current);
+      }
+    };
+
+    const handleTooltipLeave = () => {
+      isOverTooltipRef.current = false;
+      scheduleClose();
+    };
+
+    // Attach listeners to marker element
+    marker.getElement()?.addEventListener("mouseenter", handleMarkerEnter);
+    marker.getElement()?.addEventListener("mouseleave", handleMarkerLeave);
+
+    // Attach listeners to tooltip container
+    container.addEventListener("mouseenter", handleTooltipEnter);
+    container.addEventListener("mouseleave", handleTooltipLeave);
 
     return () => {
-      marker.getElement()?.removeEventListener("mouseenter", handleMouseEnter);
-      marker.getElement()?.removeEventListener("mouseleave", handleMouseLeave);
+      if (closeTimeoutRef.current) {
+        clearTimeout(closeTimeoutRef.current);
+      }
+      marker.getElement()?.removeEventListener("mouseenter", handleMarkerEnter);
+      marker.getElement()?.removeEventListener("mouseleave", handleMarkerLeave);
+      container.removeEventListener("mouseenter", handleTooltipEnter);
+      container.removeEventListener("mouseleave", handleTooltipLeave);
       tooltip.remove();
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
