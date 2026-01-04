@@ -1,13 +1,10 @@
-import { HeroSection, RecentEpisodes, NewsletterSignup } from "@/components/home";
-import { getRecentEpisodes } from "@/lib/episodes";
+import { HeroSection, EpisodeMap, NewsletterSignup } from "@/components/home";
 
 export default function HomePage() {
-  const recentEpisodes = getRecentEpisodes(4);
-
   return (
     <>
       <HeroSection />
-      <RecentEpisodes episodes={recentEpisodes} />
+      <EpisodeMap />
       <NewsletterSignup />
     </>
   );

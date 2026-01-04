@@ -46,7 +46,6 @@ export const PLATFORM_LINKS: PlatformLink[] = [
 export const NAV_LINKS = [
   { href: "/", label: "Home" },
   { href: "/episodes", label: "Episodes" },
-  { href: "/start-here", label: "Start Here" },
   { href: "/about", label: "About" },
   { href: "/listen", label: "How to Listen" },
 ];

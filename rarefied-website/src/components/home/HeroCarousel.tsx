@@ -204,7 +204,7 @@ export function HeroCarousel({
                       {position === "center" && (
                         <Link
                           href={`/episodes/${episode.slug}?autoplay=true`}
-                          className="absolute inset-0 flex items-center justify-center bg-black/20 opacity-0 hover:opacity-100 transition-opacity duration-300"
+                          className="absolute inset-0 flex items-center justify-center bg-black/20 hover:bg-black/30 transition-colors duration-300"
                         >
                           <PlayButton
                             size="lg"
