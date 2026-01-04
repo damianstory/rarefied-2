@@ -152,13 +152,13 @@ export function getAllTags(): string[] {
 
 /**
  * Get curated starter episodes for new listeners
- * Returns diverse selection: mammal, marine, insect, bird
+ * Hand-picked episodes that showcase the podcast's range and appeal
  */
 export function getStarterEpisodes(): Episode[] {
   const starterSlugs = [
-    "wolverine", // Mammal - fierce survivor
-    "basking-shark", // Marine - ocean's gentle giant
-    "rusty-patched-bumble-bee", // Insect - important pollinator
+    "spotted-gar", // Fish - unique ancient species
+    "american-eel-pt1", // River ecosystem story
+    "vancouver-island-marmot", // Conservation success story
   ];
 
   return starterSlugs

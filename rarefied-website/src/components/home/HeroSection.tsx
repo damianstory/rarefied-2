@@ -1,116 +1,17 @@
-import Image from "next/image";
-import Link from "next/link";
-import { PlayButton, Badge } from "@/components/ui";
-import { formatDuration, truncateAtSentence } from "@/lib/utils";
+import { HeroCarousel } from "./HeroCarousel";
+import { getStarterEpisodes } from "@/lib/episodes";
 import { SITE_CONFIG } from "@/lib/constants";
-import type { Episode } from "@/lib/types";
 
-interface HeroSectionProps {
-  latestEpisode: Episode;
-}
+export function HeroSection() {
+  const starterEpisodes = getStarterEpisodes();
 
-export function HeroSection({ latestEpisode }: HeroSectionProps) {
   return (
-    <section className="bg-[var(--sage-light)] pt-12 pb-8 lg:pt-20 lg:pb-12">
+    <section className="bg-[var(--sage-light)] pt-8 pb-8 lg:pt-12 lg:pb-12">
       <div className="container-wide">
-        <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
-          {/* Content */}
-          <div className="order-2 lg:order-1">
-            <p className="text-sm text-[var(--olive)] uppercase tracking-wide font-mono font-semibold">
-              <span className="hand-drawn-circle px-3 py-1">
-                Latest Episode:
-                <svg
-                  width="205"
-                  height="56"
-                  viewBox="0 0 170 48"
-                  xmlns="http://www.w3.org/2000/svg"
-                  style={{ transform: "translate(-50%, -58%) rotate(-2deg)" }}
-                >
-                  <path
-                    d="M 130 10
-                       C 100 5, 60 4, 35 10
-                       C 12 16, 3 24, 5 32
-                       C 8 40, 25 46, 60 46
-                       C 100 46, 145 42, 158 32
-                       C 168 24, 165 14, 150 8
-                       C 135 3, 110 6, 115 12"
-                  />
-                </svg>
-              </span>
-            </p>
-
-            <h1 className="mt-3 text-4xl lg:text-5xl font-bold text-black leading-tight">
-              {latestEpisode.species.commonName || latestEpisode.title}
-            </h1>
-
-            {latestEpisode.subtitle && (
-              <p className="mt-2 text-xl lg:text-2xl text-gray-700">
-                {latestEpisode.subtitle}
-              </p>
-            )}
-
-            <p className="mt-4 text-sm text-[var(--olive)] font-mono">
-              Season {latestEpisode.season} &middot; Episode{" "}
-              {latestEpisode.episodeNumber}
-              {latestEpisode.duration > 0 && (
-                <> &middot; {formatDuration(latestEpisode.duration)}</>
-              )}
-            </p>
-
-            {latestEpisode.description && (
-              <p className="mt-4 text-gray-600">
-                {truncateAtSentence(latestEpisode.description, 350).text}
-              </p>
-            )}
-
-            <div className="mt-6 flex items-center gap-4">
-              <Link href={`/episodes/${latestEpisode.slug}?autoplay=true`}>
-                <PlayButton size="lg" aria-label="Play latest episode" />
-              </Link>
-              <Link
-                href={`/episodes/${latestEpisode.slug}?autoplay=true`}
-                className="font-medium text-[var(--sky)] hover:text-[var(--sky-dark)] transition-colors"
-              >
-                Listen Now
-              </Link>
-            </div>
-
-            {/* Tags */}
-            <div className="mt-6 flex flex-wrap gap-2">
-              {latestEpisode.tags.slice(0, 4).map((tag) => (
-                <Badge key={tag} variant="outline">
-                  {tag}
-                </Badge>
-              ))}
-            </div>
-          </div>
-
-          {/* Image */}
-          <div className="order-1 lg:order-2 flex justify-center">
-            <div className="relative aspect-square rounded-xl overflow-hidden shadow-xl w-[75%]">
-              {latestEpisode.species.image ? (
-                <Image
-                  src={`/images/species/${latestEpisode.species.image}`}
-                  alt={
-                    latestEpisode.species.imageAlt ||
-                    latestEpisode.species.commonName
-                  }
-                  fill
-                  className="object-cover"
-                  priority
-                  sizes="(max-width: 1024px) 100vw, 50vw"
-                />
-              ) : (
-                <div className="w-full h-full bg-[var(--sage)] flex items-center justify-center">
-                  <span className="text-[var(--olive)]">No image</span>
-                </div>
-              )}
-            </div>
-          </div>
-        </div>
+        <HeroCarousel episodes={starterEpisodes} />
 
         {/* Tagline */}
-        <div className="mt-16 text-center">
+        <div className="mt-8 text-center">
           <p className="text-lg text-gray-700 max-w-2xl mx-auto">
             {SITE_CONFIG.tagline}
           </p>
