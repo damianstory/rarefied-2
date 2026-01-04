@@ -139,7 +139,7 @@ function EpisodePopupContent({
               <Link
                 key={episode.slug}
                 href={`/episodes/${episode.slug}`}
-                className="flex items-center justify-between group"
+                className="flex items-center justify-between group outline-none focus:outline-none"
               >
                 <span className="text-sm text-gray-700 group-hover:text-[var(--olive)] transition-colors">
                   S{episode.season} E{episode.episodeNumber}
