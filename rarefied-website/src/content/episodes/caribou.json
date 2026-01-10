@@ -11,12 +11,12 @@
   "species": {
     "commonName": "Caribou",
     "scientificName": "",
-    "status": "Unknown",
-    "weight": "",
+    "status": "Endangered",
+    "weight": "180 kg",
     "length": "",
-    "diet": "",
-    "habitat": "",
-    "specialPower": "",
+    "diet": "Lichen",
+    "habitat": "Deep Snow Dwelling",
+    "specialPower": "Built In Snowshoes",
     "image": "caribou.jpg",
     "imageAlt": "Caribou featured in episode 25"
   },
@@ -118,7 +118,10 @@
     }
   ],
   "tags": [
-    "season 1"
+    "season 1",
+    "british columbia",
+    "mammal",
+    "endangered"
   ],
   "_sourceUrl": "",
   "_rssGuid": "Buzzsprout-17244733"

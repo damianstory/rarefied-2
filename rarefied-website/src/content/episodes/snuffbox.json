@@ -11,12 +11,12 @@
   "species": {
     "commonName": "Snuffbox",
     "scientificName": "",
-    "status": "Unknown",
+    "status": "Endangered",
     "weight": "",
-    "length": "",
-    "diet": "",
-    "habitat": "",
-    "specialPower": "",
+    "length": ">7 cm",
+    "diet": "Host Fish: Logperch",
+    "habitat": "Freshwater Rivers",
+    "specialPower": "Beauty Is On The Inside",
     "image": "snuffbox.jpg",
     "imageAlt": "Snuffbox featured in episode 24"
   },
@@ -25,7 +25,7 @@
   "spotifyEmbedId": "2j1ZgkOCvnUczSS4IzS3pv",
   "applePodcastsUrl": "",
   "guest": {
-    "name": "Catherine Febria",
+    "name": "Catherine Febria, Lauren Damphousse",
     "title": "",
     "organization": ""
   },
@@ -145,7 +145,10 @@
     }
   ],
   "tags": [
-    "season 1"
+    "season 1",
+    "endangered",
+    "aquatic",
+    "ontario"
   ],
   "_sourceUrl": "",
   "_rssGuid": "Buzzsprout-17206539"

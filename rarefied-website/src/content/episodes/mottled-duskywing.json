@@ -11,13 +11,13 @@
   "species": {
     "commonName": "Mottled Duskywing",
     "scientificName": "",
-    "status": "Unknown",
+    "status": "Endangered",
     "weight": "",
-    "length": "",
-    "diet": "",
-    "habitat": "",
-    "specialPower": "",
-    "image": "placeholder.jpg",
+    "length": "2-4 cm",
+    "diet": "Host Plant: New Jersey Tea, Prairie Redroot",
+    "habitat": "Grassland/Savannah",
+    "specialPower": "Resiliency",
+    "image": "mottled-duskywing.jpeg",
     "imageAlt": "Mottled Duskywing featured in episode 2"
   },
   "audioUrl": "https://www.buzzsprout.com/2415328/episodes/16185274-mottled-duskywing-butterflies-are-resilient.mp3",
@@ -28,7 +28,11 @@
   "chapters": [],
   "resources": [],
   "tags": [
-    "season 1"
+    "season 1",
+    "pollinators",
+    "insects",
+    "captive breeding program",
+    "ontario"
   ],
   "_sourceUrl": "",
   "_rssGuid": "Buzzsprout-16185274"

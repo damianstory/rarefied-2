@@ -11,12 +11,12 @@
   "species": {
     "commonName": "Loggerhead Shrike",
     "scientificName": "",
-    "status": "Unknown",
+    "status": "Endangered",
     "weight": "",
-    "length": "",
-    "diet": "",
-    "habitat": "",
-    "specialPower": "",
+    "length": "Wingspan: 28-32 cm",
+    "diet": "Small mammals and insects",
+    "habitat": "Alvar",
+    "specialPower": "Small But Mighty",
     "image": "loggerhead-shrike.jpg",
     "imageAlt": "Loggerhead Shrike featured in episode 1"
   },
@@ -79,7 +79,12 @@
   ],
   "resources": [],
   "tags": [
-    "season 1"
+    "season 1",
+    "birds",
+    "endangered",
+    "captive breeding program",
+    "alvar",
+    "ontario"
   ],
   "_sourceUrl": "",
   "_rssGuid": "Buzzsprout-16144535"

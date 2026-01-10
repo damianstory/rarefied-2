@@ -11,12 +11,12 @@
   "species": {
     "commonName": "Spotted Gar",
     "scientificName": "",
-    "status": "Unknown",
+    "status": "Endangered",
     "weight": "",
-    "length": "",
-    "diet": "",
-    "habitat": "",
-    "specialPower": "",
+    "length": "50 cm",
+    "diet": "Small fish",
+    "habitat": "Freshwater",
+    "specialPower": "Slimy Body Armour",
     "image": "spotted-gar.webp",
     "imageAlt": "Spotted Gar, an endangered fish with distinctive spots"
   },
@@ -73,7 +73,10 @@
   ],
   "resources": [],
   "tags": [
-    "season 1"
+    "season 1",
+    "fish",
+    "endangered",
+    "ontario"
   ],
   "_sourceUrl": "",
   "_rssGuid": "Buzzsprout-16224662"

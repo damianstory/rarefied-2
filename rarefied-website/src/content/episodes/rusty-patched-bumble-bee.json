@@ -25,7 +25,7 @@
   "spotifyEmbedId": "3FrsNfKZZ2RfryQtQti7m3",
   "applePodcastsUrl": "",
   "guest": {
-    "name": "Elaine Evans",
+    "name": "Elaine Evans, Mary Powley",
     "title": "",
     "organization": ""
   },
@@ -100,7 +100,11 @@
     }
   ],
   "tags": [
-    "season 1"
+    "season 1",
+    "endangered",
+    "insects",
+    "pollinators",
+    "urban species"
   ],
   "_sourceUrl": "",
   "_rssGuid": "Buzzsprout-16640646"

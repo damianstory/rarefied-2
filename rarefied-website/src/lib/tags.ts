@@ -49,6 +49,8 @@ export const TAG_CATEGORIES: TagCategoryConfig[] = [
       "urban species",
       "old growth forest",
       "river",
+      "alvar",
+      "aquatic",
     ],
   },
   {

@@ -24,7 +24,11 @@
   "spotifyUrl": "https://open.spotify.com/episode/0t79ZfCAjV47rqUcK6XE3B",
   "spotifyEmbedId": "0t79ZfCAjV47rqUcK6XE3B",
   "applePodcastsUrl": "",
-  "guest": null,
+  "guest": {
+    "name": "Gabriel Evans Cook, Gwendolyn Clark",
+    "title": "",
+    "organization": ""
+  },
   "chapters": [
     {
       "time": "00:00",
@@ -143,7 +147,8 @@
     "threatened",
     "birds",
     "aerial insectivore",
-    "urban species"
+    "urban species",
+    "community science"
   ],
   "_sourceUrl": "https://www.rarefiedpod.com/episodes/interview-chimney-swift-birds-canada",
   "_rssGuid": "Buzzsprout-16949512"
